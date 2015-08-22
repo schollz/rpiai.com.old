@@ -6,7 +6,6 @@ description: > # this means to ignore newlines until "baseurl:"
   artificial intelligence using a Raspberry Pi with many features. Current
   features include face/speech recognition, poetry generation (creativity),
   motion sensing.
-  
 baseurl: "" # the subpath of your site, e.g. /blog
 permalink: /:title/
 url: "rpiai.com" # name of site e.g. localhost:4000
