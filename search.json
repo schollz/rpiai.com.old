@@ -9,6 +9,7 @@ layout: null
 "title"    : "{{ post.title | escape }}",
 "counter": "{{ counter }}",
 "desc": "{{ post.description }}",
+"content": "{{ post.description }}",
 "category" : "{{ post.category }}",
 "tags"     : "{{ post.tags | join: ', ' }}",
 "url"      : "{{ post.url | prepend: site.baseurl }}",
@@ -23,7 +24,8 @@ layout: null
 {% if page.title == 'About' %}
 "title"    : "{{ page.title | escape }}",
 "counter": "{{ counter }}",
-"desc": "{{ post.description }}",
+"desc": "{{ page.description }}",
+"content": "{{ page.description }}",
 "category" : "{{ page.category }}",
 "tags"     : "{{ page.tags | join: ', ' }}",
 "url"      : "{{ page.url | prepend: site.baseurl }}",
