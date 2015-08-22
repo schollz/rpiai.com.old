@@ -1,20 +1,22 @@
 # Site settings
-title: Your awesome title
-email: your-email@domain.com
+title: Raspberry Pi AI
+email: zack@hypercubeplatforms.com
 description: > # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
-baseurl: "/jekyll-minimal" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 permalink: /:title/
 url: "rpiai.com" # name of site e.g. localhost:4000
 relative_permalinks: true
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: zack_118
+github_username:  schollz
 
 # Optionals
-disqus_shortname: #"musicsuggestions"
-google_analytics: #"UA-62222464-1"
+disqus_shortname: "rpiai"
+google_analytics: "UA-2345677-6"
 
 # Build settings
 markdown: redcarpet
+redcarpet:
+  extensions: ["no_intra_emphasis", "tables", "fenced_code_blocks", "autolink", "strikethrough", "superscript"]
