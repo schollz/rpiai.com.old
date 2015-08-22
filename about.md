@@ -5,6 +5,10 @@ permalink: /about/
 weight: 10
 ---
 
+### Theme
+
+Theme based on [my tiny-footprint Jekyll theme](https://github.com/schollz/jekyll-minimal)
+
 <blockquote> <p><span class="icon">
                 <svg viewBox="-7.86 833.445 16 16">
                 	<path fill="#010002" d="M4.5,836c-1.2-0.4-2.3,0.3-2.7,1.5c-0.4,1.2,0.3,2.8,0,3.6c-0.4,1.1-1.5,2.7,0,3.8c1.5,1,2.5-0.6,3.3-2
@@ -31,20 +35,4 @@ weight: 10
 	C-6.7,841.9-7,841.5-7.3,841.4z"/>
                 </svg>
               </span> "Tread softly because you tread on my dreams." - William Yeats</p> </blockquote>
-## Features
-
-- Very small footprint for landing page (CSS+JS < 10 KB uncompressed)
-- SVG Icons for fast loading (< 4 KB uncompressed)
-- Dynamic description loading on main page
-- Fixed navbar
-- SEO and Opengraph
-- Tag page and tags underneath each post title
-- Optional Disqus comments on posts
-- Optional Google analytics
-
-## Acknowledgements
-
-- [Jekyll for base theme](https://github.com/jglovier/jekyll-new)
-- [christian-fei for simple-jekyll-search](https://github.com/christian-fei/Simple-Jekyll-Search)
-- [nadjetey for gist idea](https://github.com/nadjetey/wangana)
 
