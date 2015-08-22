@@ -5,7 +5,7 @@ date: 2015-08-19
 comments: true
 archive: false
 tags: [web development, blogging, jekyll]
-blog: true
+landing: true
 description: Trying to make a tiny footprint version of a nice blog website
 ---
 
@@ -25,10 +25,9 @@ The content HTML of the site is less than a tenth the actual bandwidth used to t
 
 This prompted me to create a new theme that does the major things (navigation, nice font awesome-like icons, searching, mobile-friendly) without all the bloat from the major HTML packages. My solution is the [Tiny Feet theme for Jekyll](https://github.com/schollz/jekyll-tinyfeet).
 
-# Jekyll with a tiny footprint
+Creating my own theme with my own custom CSS reduced the landing page to only 8 KB compressed (24 KB uncompressed), **total**! Here are some details of the theme:
 
-
-<h2>Features<svg version="1.2" baseProfile="tiny" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+<h2><svg version="1.2" baseProfile="tiny" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
 	 x="0px" y="0px" width="40px" height="40px" viewBox="-19.9 821.4 40 40" xml:space="preserve">
 <g>
 	<path fill="#010002" d="M11.1,827.9c-2.9-1-5.8,0.9-6.7,3.7c-1,3.1,0.6,7-0.1,8.9c-1,2.7-3.9,6.8,0.1,9.6c3.6,2.5,6.3-1.5,8.2-5
@@ -55,7 +54,7 @@ This prompted me to create a new theme that does the major things (navigation, n
 	<path fill="#010002" d="M-18.4,841.4c-0.7-0.3-1.2,0.2-1.4,1c-0.2,0.8-0.1,1.5,0.6,1.8c0.7,0.3,1.8,0,2-0.8
 		C-16.9,842.7-17.6,841.7-18.4,841.4z"/>
 </g>
-</svg></h2>
+</svg>&nbsp; Jekyll Tiny Feet theme</h2>
 
 - Very small footprint for landing page (CSS+JS < 10 KB uncompressed)
 - SVG Icons for fast loading (< 4 KB uncompressed)
