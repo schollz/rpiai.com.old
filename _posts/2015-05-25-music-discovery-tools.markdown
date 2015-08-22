@@ -107,7 +107,7 @@ Here is a list that I've compiled containing all the music discovery tools out t
 <td align="left">User-based so bands have to have some popularity to appear as recommendation</td>
 </tr>
 <tr>
-<td align="left"><a href="http://whatthefuckshouldilistentorightnow.com/">What the f*** should I listen to right now</a></td>
+<td align="left"><a href="http://whatthefuckshouldilistentorightnow.com/">What the f!$% should I listen to right now</a></td>
 <td align="left">User network</td>
 <td align="left">Enter a band name and get another one that is related</td>
 <td align="left">Has good unexpected results</td>
