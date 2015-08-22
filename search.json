@@ -29,7 +29,7 @@ layout: null
 "tags"     : "{{ page.tags | join: ', ' }}",
 "url"      : "{{ page.url | prepend: site.baseurl }}",
 "date"     : "{{ page.date | date: "%b %-d, %Y" }}",
-"content"  : "{{ post.content | strip_html | strip_newlines | remove_chars | escape | replace('"','') | replace('+','')  | replace('-','')  | replace('/','')  | replace('\','') | strip }}"
+"content"  : "{{ page.content  | url_escape }}"
 {% endif %}
 } {% unless forloop.last %},{% endunless %}
 
