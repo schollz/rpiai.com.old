@@ -13,7 +13,7 @@ description: Things I learned making a retweet-to-win bot
 
 There are about 40 contests entered per hour. 
 
-So far 2,498 contests have been entered and 12 have been won, giving a winning percentage of 0.5%. When I enter a given contest it an average of 32 retweets with a standard deviation of 90 retweets.
+So far 4,487 contests have been entered and 12 have been won, giving a winning percentage of 0.5%. When I enter a given contest it an average of 32 retweets with a standard deviation of 90 retweets.
 
 # How many of the retweets are real?
 
