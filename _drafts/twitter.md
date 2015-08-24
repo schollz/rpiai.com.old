@@ -52,3 +52,6 @@ How many of the retweets are even real? Maybe not many of them. Suppose on avera
 13. Football digital card? 96 fairley
 <blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">Giveaways for loyals retweet for a chance to win starts at 50 retweets <a href="https://twitter.com/bloodreaper77">@bloodreaper77</a> <a href="https://twitter.com/CtsVikes">@CtsVikes</a> <a href="https://twitter.com/STQRMY">@STQRMY</a> <a href="http://t.co/KyTmKrRgfc">pic.twitter.com/KyTmKrRgfc</a></p>&mdash; Madden Ut_11 (@Rjthegoat11) <a href="https://twitter.com/Rjthegoat11/status/634349680747520000">August 20, 2015</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+14. Sampler pack of tea
+<blockquote class="twitter-tweet" data-partner="tweetdeck"><p lang="en" dir="ltr">CONGRATS to <a href="https://twitter.com/Marzipan_tea">@Marzipan_tea</a> <a href="https://twitter.com/cuppageek00">@cuppageek00</a> &amp; <a href="https://twitter.com/TheBeerGuzzlers">@thebeerguzzlers</a> for winning a sampler pack of <a href="https://twitter.com/NAHTeaCo">@NAHTeaCo</a> tea! Please PM me your addresses! :)</p>&mdash; TeaCat (@BlackCatBytes) <a href="https://twitter.com/BlackCatBytes/status/635836454518677504">August 24, 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
