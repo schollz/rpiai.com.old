@@ -11,6 +11,6 @@
 
 - [Selection and evolution of enzymes from a partially randomized non-catalytic scaffold](http://molbio.mgh.harvard.edu/szostakweb/researchProtein.html)
 
-# [Jack Szostak lab](http://molbio.mgh.harvard.edu/szostakweb/researchProtein.html) (Harvard)
+## [Jack Szostak lab](http://molbio.mgh.harvard.edu/szostakweb/researchProtein.html) (Harvard)
 
 - [Selection and evolution of enzymes from a partially randomized non-catalytic scaffold](http://molbio.mgh.harvard.edu/szostakweb/researchProtein.html)
