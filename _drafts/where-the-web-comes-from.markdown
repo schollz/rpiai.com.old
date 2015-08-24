@@ -3,9 +3,8 @@ layout: post
 title: The internet stands on the shoulders of giants
 date: 2015-08-19
 comments: true
-archive: false
-tags: web development, javascript, origins
-blog: true
+tags: [web development, javascript, origins]
+landing: true
 description: Things I learned making a retweet-to-win bot
 ---
 
@@ -17,3 +16,6 @@ description: Things I learned making a retweet-to-win bot
   
 - Apache - [powers 57% of all websites](http://w3techs.com/technologies/overview/web_server/all)
   Open-source software developed by [Robert McCool](https://en.wikipedia.org/wiki/Robert_McCool)
+
+- Jekyll - most popular static site generator. Open-source software developed by Github, the  [largest source code host in the world](http://flosshub.org/sites/flosshub.org/files/lean-ghtorrent.pdf)
+
