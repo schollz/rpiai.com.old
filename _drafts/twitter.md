@@ -9,7 +9,11 @@ blog: true
 description: Things I learned making a retweet-to-win bot
 ---
 
-[Statistics](#statistics)
+# TOC
+- [Introduction](#introduction)
+- [Statistics](#statistics)
+- [Analysis of contests](#analysis)
+- [List of contests won](#contests)
 
 An analysis of thousands of the entries revealed the following word cloud:
 
@@ -26,7 +30,7 @@ So far 5,178 contests have been entered and 16 have been won, giving a winning p
 
 How many of the retweets are even real? Maybe not many of them. Suppose on average, a contest saturates at X retweets, giving me a 1/X chance of winning. My winning percentage should be roughly equal to the 1/X, so given I won Y contests there should have been XY contests that are definetly real.
 
-# Contests won
+# List of contests won
 
 1.  Autographed cookbook  
 <blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">Follow and retweet for a chance to win <a href="https://twitter.com/CHEF_LYNN">@CHEF_LYNN</a> autographed cookbook (contest ends 8 am Aug 17) <a href="https://twitter.com/hashtag/steinanddine?src=hash">#steinanddine</a></p>&mdash; K-W Oktoberfest Inc. (@KW_Oktoberfest) <a href="https://twitter.com/KW_Oktoberfest/status/632605172884082688">August 15, 2015</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script> <blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">Congratulations <a href="https://twitter.com/music_sug_ninja">@music_sug_ninja</a> on winning the RT contest for a signed copy of <a href="https://twitter.com/CHEF_LYNN">@CHEF_LYNN</a>&#39;s cookbook.</p>&mdash; K-W Oktoberfest Inc. (@KW_Oktoberfest) <a href="https://twitter.com/KW_Oktoberfest/status/633303849621565440">August 17, 2015</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
