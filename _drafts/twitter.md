@@ -9,7 +9,7 @@ blog: true
 description: Things I learned making a retweet-to-win bot
 ---
 
-[Statistics](#Statistics)
+[Statistics](#statistics)
 
 An analysis of thousands of the entries revealed the following word cloud:
 
