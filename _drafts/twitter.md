@@ -13,12 +13,7 @@ description: Things I learned making a retweet-to-win bot
 - [Introduction](#introduction)
 - [Statistics](#statistics)
 - [Analysis of contests](#analysis)
-- [List of contests won](#contests)
-
-An analysis of thousands of the entries revealed the following word cloud:
-
-![Types of prizes won](http://i.imgur.com/QmE9JaP.png)
-
+- [List of contests won](#list-of-contests-won)
 
 # Statistics
 
@@ -26,7 +21,15 @@ There are about 40 contests entered per hour.
 
 So far 5,178 contests have been entered and 16 have been won, giving a winning percentage of 0.31%. When I enter a given contest it an average of 41 retweets with a standard deviation of 104 retweets.
 
-# How many of the retweets are real?
+# Analysis
+
+## What kind of prizes can one expect?
+
+An analysis of thousands of the entries revealed the following word cloud:
+
+![Types of prizes won](http://i.imgur.com/QmE9JaP.png)
+
+## How many contests are actually real?
 
 How many of the retweets are even real? Maybe not many of them. Suppose on average, a contest saturates at X retweets, giving me a 1/X chance of winning. My winning percentage should be roughly equal to the 1/X, so given I won Y contests there should have been XY contests that are definetly real.
 
