@@ -31,7 +31,9 @@ An analysis of thousands of the entries revealed the following word cloud:
 
 ## How many contests are actually real?
 
-How many of the retweets are even real? Maybe not many of them. Suppose on average, a contest saturates at X retweets, giving me a 1/X chance of winning. My winning percentage should be roughly equal to the 1/X, so given I won Y contests there should have been XY contests that are definetly real.
+How many of the retweets are even real? Maybe not many of them. Suppose on average, a contest saturates at X retweets, giving me a 1/X chance of winning. My winning percentage should be roughly equal to the 1/X, so given I won Y contests there should have been XY contests that are definetly real. This is a very rough estimate.
+
+However, I have actually entered Z contests. Assuming the above, that means that Z-XY contests are not real - that is (Z-XY)/Z percent of all contests have no intention of physically or electronically providing you with a prize.
 
 # List of contests won
 
