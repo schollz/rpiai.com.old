@@ -9,6 +9,11 @@ blog: true
 description: Things I learned making a retweet-to-win bot
 ---
 
+An analysis of thousands of the entries revealed the following word cloud:
+
+![Types of prizes won](http://i.imgur.com/QmE9JaP.png)
+
+
 # Statistics
 
 There are about 40 contests entered per hour. 
