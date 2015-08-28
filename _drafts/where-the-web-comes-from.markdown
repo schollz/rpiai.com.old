@@ -8,6 +8,8 @@ landing: true
 description: Things I learned making a retweet-to-win bot
 ---
 
+The internet is a history of giants standing on shoulders of giants. Its hard to say [when the internet began](https://en.wikipedia.org/wiki/History_of_the_Internet), since its foundation was laid in the 1950's and 1960's with [breakthroughs in packet switching](https://en.wikipedia.org/wiki/Network_packet).
+
 - Wordpress - [24% of all websites](http://w3techs.com/technologies/overview/content_management/all) and [50% of all websites that use a CMS](https://trends.builtwith.com/cms). Open-source software developed by two people - [Matt Mullenweg](https://en.wikipedia.org/wiki/Matt_Mullenweg) and [Mike Little](https://en.wikipedia.org/wiki/Mike_Little)
   
 - JQuery - [29%](https://trends.builtwith.com/javascript) - [65% of all websites](http://w3techs.com/technologies/overview/javascript_library/all)
