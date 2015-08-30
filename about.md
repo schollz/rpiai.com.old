@@ -36,3 +36,16 @@ Theme based on [my tiny-footprint Jekyll theme](https://github.com/schollz/jekyl
                 </svg>
               </span> "Tread softly because you tread on my dreams." - William Yeats</p> </blockquote>
 
+<div class="visible-xs-12">
+Hi
+</div>
+<div class="visible-sm-12">
+small
+</div>
+<div class="visible-md-12">
+md
+</div>
+<div class="visible-lg-12">
+lg
+</div>
+
