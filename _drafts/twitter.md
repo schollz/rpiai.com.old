@@ -108,3 +108,6 @@ However, I have actually entered Z contests. Assuming the above, that means that
 23. Tickets to Latino summit in New York
 <blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">Win Tickets to the Upstate Latino Summit! - Learn more: <a href="http://t.co/HbRADke1VW">http://t.co/HbRADke1VW</a> <a href="https://twitter.com/hashtag/RT?src=hash">#RT</a> to win! <a href="http://t.co/evBvVJvc5Y">pic.twitter.com/evBvVJvc5Y</a></p>&mdash; IBERO (@IberoRochester) <a href="https://twitter.com/IberoRochester/status/637308786089156608">August 28, 2015</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+24. Free trial of a VPN service
+<blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">RT for a chance to win a promo code for 30 days of the VPN Unlimited service. 5 random winners will get a code tmr. &#10;<a href="https://t.co/GeKhVlKGcy">https://t.co/GeKhVlKGcy</a></p>&mdash; VPN Unlimited (@vpnunlimited) <a href="https://twitter.com/vpnunlimited/status/638351384253988864">August 31, 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
