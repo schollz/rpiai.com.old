@@ -1,0 +1,1 @@
+A list of the greatest inventions that can be written on a napkin. Given you were able to travel to any time period and write down any idea on a napkin - which idea would yield the most influence/power/money? 
