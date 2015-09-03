@@ -111,3 +111,6 @@ However, I have actually entered Z contests. Assuming the above, that means that
 24. Free trial of a VPN service
 <blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">RT for a chance to win a promo code for 30 days of the VPN Unlimited service. 5 random winners will get a code tmr. &#10;<a href="https://t.co/GeKhVlKGcy">https://t.co/GeKhVlKGcy</a></p>&mdash; VPN Unlimited (@vpnunlimited) <a href="https://twitter.com/vpnunlimited/status/638351384253988864">August 31, 2015</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+25. Fishing Bob fishing light
+<blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">Correction... <a href="https://twitter.com/music_sug_ninja">@music_sug_ninja</a> is the winner! Thanks for all the RT&#39;s and look for more coming soon! Congrats! <a href="http://t.co/jRqCPckigE">pic.twitter.com/jRqCPckigE</a></p>&mdash; Bob Light (@Fishingboblight) <a href="https://twitter.com/Fishingboblight/status/639242768330694656">September 3, 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
