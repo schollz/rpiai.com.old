@@ -97,7 +97,7 @@ However, I have actually entered Z contests. Assuming the above, that means that
 20. Tickets to a fintess event in Chicago
 <blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/fitness?src=hash">#fitness</a> buffs! We have 2 <a href="https://twitter.com/hashtag/free?src=hash">#free</a> tix to <a href="https://twitter.com/hashtag/onelive?src=hash">#onelive</a> tomorrow with <a href="https://twitter.com/hashtag/reebox?src=hash">#reebox</a> and <a href="https://twitter.com/hashtag/lesmills?src=hash">#lesmills</a> at McCormick. RT to win! <a href="https://twitter.com/hashtag/FreebieFriday?src=hash">#FreebieFriday</a></p>&mdash; Chiorganicgirls (@Chiorganicgirls) <a href="https://twitter.com/Chiorganicgirls/status/637363825138892800">August 28, 2015</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-21. 50$ gift certicate for something...golf related?
+21. 50$ gift certicate for Amazon!
 <blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">It&#39;s <a href="https://twitter.com/hashtag/teetime?src=hash">#teetime</a> at <a href="https://twitter.com/hashtag/Golf4MFG?src=hash">#Golf4MFG</a> &amp; all proceeds go to <a href="https://twitter.com/NBThingamajigs">@NBThingamajigs</a>! RT for a chance to win one of ten $50 giftcards tomorrow AM. <a href="https://twitter.com/hashtag/nutsandbolts?src=hash">#nutsandbolts</a></p>&mdash; Eric Lundin (@TubePipeJournal) <a href="https://twitter.com/TubePipeJournal/status/635874980958334976">August 24, 2015</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 22. Megaman print
