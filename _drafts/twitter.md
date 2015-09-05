@@ -114,3 +114,6 @@ However, I have actually entered Z contests. Assuming the above, that means that
 25. Fishing Bob fishing light
 <blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">Correction... <a href="https://twitter.com/music_sug_ninja">@music_sug_ninja</a> is the winner! Thanks for all the RT&#39;s and look for more coming soon! Congrats! <a href="http://t.co/jRqCPckigE">pic.twitter.com/jRqCPckigE</a></p>&mdash; Bob Light (@Fishingboblight) <a href="https://twitter.com/Fishingboblight/status/639242768330694656">September 3, 2015</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+26. Graphic novel
+<blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">20 COMIXOLOGY CODES!&#10;&#10;<a href="https://twitter.com/hashtag/RT?src=hash">#RT</a> for a chance to <a href="https://twitter.com/hashtag/WIN?src=hash">#WIN</a> a FREE <a href="https://twitter.com/comiXology">@comixology</a> download of my graphic novel, THE CHAIR!&#10;<a href="https://twitter.com/hashtag/giveaway?src=hash">#giveaway</a> <a href="http://t.co/gt63GmowB2">pic.twitter.com/gt63GmowB2</a></p>&mdash; Peter Simeti (@petersimeti) <a href="https://twitter.com/petersimeti/status/639252916776398849">September 3, 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
