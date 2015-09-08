@@ -123,3 +123,7 @@ However, I have actually entered Z contests. Assuming the above, that means that
 28. Tickets to a Beerfest in Indiana
 <blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">BuyOurBottles still has 4 Fri. and 2 Sat. evening <a href="https://twitter.com/hashtag/GABFTickets?src=hash">#GABFTickets</a>. RT for a chance to win! Winners will be announced this afternoon. Cheers!</p>&mdash; BuyOurBottles.com (@BuyOurBottles) <a href="https://twitter.com/BuyOurBottles/status/639774431301251073">September 4, 2015</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+29. CD from Matt Steady of acoustic music
+<blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">Congratulations to <a href="https://twitter.com/TheBeerGuzzlers">@TheBeerGuzzlers</a> ! You&#39;ve won the signed CD of &quot;Blood is thicker than gold&quot; <a href="https://twitter.com/hashtag/winner?src=hash">#winner</a> <a href="https://twitter.com/hashtag/newmusic?src=hash">#newmusic</a> DM incoming</p>&mdash; Matt Steady (@MattStoicSteady) <a href="https://twitter.com/MattStoicSteady/status/640247755928154112">September 5, 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
