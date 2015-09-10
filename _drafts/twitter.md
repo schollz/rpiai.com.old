@@ -133,4 +133,7 @@ However, I have actually entered Z contests. Assuming the above, that means that
 <blockquote class="twitter-tweet" data-partner="tweetdeck"><p lang="en" dir="ltr"><a href="https://twitter.com/TheBeerGuzzlers">@thebeerguzzlers</a> hi, you won the <a href="https://twitter.com/VLAFF">@VLAFF</a> tickets for &quot;The Hamsters&quot;. Could you please confirm your name and contact with us through DM?</p>&mdash; Reel West Magazine (@reelwestmag) <a href="https://twitter.com/reelwestmag/status/641313832216956928">September 8, 2015</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 32. Tickets to see Jane Doze in California
+33. Tickets to see PJ Powers
+<blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">Keen to see <a href="https://twitter.com/PJPowers1">@PJPowers1</a> at <a href="https://twitter.com/TheFugard">@TheFugard</a> tomorrow night? We&#39;ve got 2 tickets up for grabs. RT to win. <a href="http://t.co/47YN9zEsZR">http://t.co/47YN9zEsZR</a> <a href="https://twitter.com/hashtag/OpenBookFestival?src=hash">#OpenBookFestival</a></p>&mdash; Western Cape Gov (@WesternCapeGov) <a href="https://twitter.com/WesternCapeGov/status/641537907698847744">September 9, 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
