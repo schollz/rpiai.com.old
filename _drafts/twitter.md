@@ -136,4 +136,12 @@ However, I have actually entered Z contests. Assuming the above, that means that
 33. Tickets to see PJ Powers
 <blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">Keen to see <a href="https://twitter.com/PJPowers1">@PJPowers1</a> at <a href="https://twitter.com/TheFugard">@TheFugard</a> tomorrow night? We&#39;ve got 2 tickets up for grabs. RT to win. <a href="http://t.co/47YN9zEsZR">http://t.co/47YN9zEsZR</a> <a href="https://twitter.com/hashtag/OpenBookFestival?src=hash">#OpenBookFestival</a></p>&mdash; Western Cape Gov (@WesternCapeGov) <a href="https://twitter.com/WesternCapeGov/status/641537907698847744">September 9, 2015</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-
+34. Tickets to the Raleigh Home Show
+<blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">We&#39;re giving away tickets to <a href="https://twitter.com/RaleighHomeShow">@RaleighHomeShow</a>, happening Sept 11 - 13 at the Raleigh Convention Center! RT for a chance to win</p>&mdash; Cary Magazine (@carymagazine) <a href="https://twitter.com/carymagazine/status/641686328908902402">September 9, 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+35. Free meal at Mocka Lounge in Carfill
+<blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">WIN A FREE MEAL&#10;&#10;RT to win. 5 winners will be chosen at random across Facebook, Twitter &amp; Instagram so get involved. <a href="http://t.co/veZaZAFMlo">pic.twitter.com/veZaZAFMlo</a></p>&mdash; ✧ Mocka Lounge ✧ (@MockaLounge) <a href="https://twitter.com/MockaLounge/status/642029037800456194">September 10, 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+36. Tickets to BBC Classical music festival
+<blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">RT for a chance to <a href="https://twitter.com/hashtag/win?src=hash">#win</a> 2 tickets to the <a href="https://twitter.com/bbcproms">@bbcproms</a> from <a href="https://twitter.com/CineplexMovies">@CineplexMovies</a> <a href="https://twitter.com/hashtag/bbcproms?src=hash">#bbcproms</a> <a href="https://twitter.com/hashtag/contest?src=hash">#contest</a> <a href="http://t.co/Tr9jOdn6Jl">pic.twitter.com/Tr9jOdn6Jl</a></p>&mdash; Classical963FM (@classical963fm) <a href="https://twitter.com/classical963fm/status/641719213355200512">September 9, 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
