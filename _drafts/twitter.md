@@ -148,3 +148,6 @@ However, I have actually entered Z contests. Assuming the above, that means that
 37. Some stickers
 <blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/FREESTICKERFRIDAYZ?src=hash">#FREESTICKERFRIDAYZ</a> RT to win a FREE Sprinkles the Mad Truffle Hamster sticker! <a href="https://twitter.com/hashtag/art?src=hash">#art</a> <a href="https://twitter.com/hashtag/spreadtheword?src=hash">#spreadtheword</a> <a href="https://twitter.com/hashtag/vinylsticker?src=hash">#vinylsticker</a> <a href="http://t.co/whcdyPXuBV">pic.twitter.com/whcdyPXuBV</a></p>&mdash; Sugar Arcade (@SugarArcade) <a href="https://twitter.com/SugarArcade/status/642336083418742784">September 11, 2015</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+38. Minecraft skins
+<blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">~Custom Skin Giveaway!&#10;&#10;~Rules: &#10;- RT&#10;- Follow&#10;- Fav (Optional)&#10;&#10;~Ends at 30 Retweets (Can we do it?)&#10;- 1:10 Winner Ratio&#10;&#10;~Good Luck!</p>&mdash; ItzJavaCraft (@ItzJavaCraft) <a href="https://twitter.com/ItzJavaCraft/status/641260807540637696">September 8, 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
