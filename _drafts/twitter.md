@@ -154,3 +154,12 @@ However, I have actually entered Z contests. Assuming the above, that means that
 39. Dermatology treatment
 <blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">It&#39;s time for another <a href="https://twitter.com/hashtag/mondaymotivation?src=hash">#mondaymotivation</a> giveaway! RT to win a Dermalogica microzone treatment!</p>&mdash; Massage Works (@massageworksfwb) <a href="https://twitter.com/massageworksfwb/status/643415728796864512">September 14, 2015</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+40. Tickets to Faster Pussycat show
+<blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">Hey guys we r giving 5 <a href="https://twitter.com/hashtag/free?src=hash">#free</a> tickets to come see us at the Faster Pussycat show this Thursday at the Palladium. RT to win <a href="https://twitter.com/hashtag/rock?src=hash">#rock</a></p>&mdash; No Hugs (@NoHugsBand) <a href="https://twitter.com/NoHugsBand/status/643819711235551234">September 15, 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+41. Maids of Honor trilogy books
+<blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">The third <a href="https://twitter.com/hashtag/MaidsofHonor?src=hash">#MaidsofHonor</a> novel--MAID OF WONDER--is out today. (Huzzah, <a href="https://twitter.com/Jenn_McGowan">@Jenn_McGowan</a>!) Retweet until 3:00 for a chance to win all 3 books!</p>&mdash; Christian Trimmer (@MisterTrimmer) <a href="https://twitter.com/MisterTrimmer/status/643797382338101248">September 15, 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+42. A Quesopalooza poster
+<blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">RT for a chance to win one of these limited edition Quesopalooza posters! (10 Random Winners) <a href="https://twitter.com/hashtag/FreeQuesoRocks?src=hash">#FreeQuesoRocks</a> <a href="http://t.co/1bcKvQdVtb">pic.twitter.com/1bcKvQdVtb</a></p>&mdash; Moe&#39;sSouthwestGrill (@Moes_HQ) <a href="https://twitter.com/Moes_HQ/status/642042485464780800">September 10, 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
