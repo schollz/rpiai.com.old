@@ -163,3 +163,15 @@ However, I have actually entered Z contests. Assuming the above, that means that
 42. A Quesopalooza poster
 <blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">RT for a chance to win one of these limited edition Quesopalooza posters! (10 Random Winners) <a href="https://twitter.com/hashtag/FreeQuesoRocks?src=hash">#FreeQuesoRocks</a> <a href="http://t.co/1bcKvQdVtb">pic.twitter.com/1bcKvQdVtb</a></p>&mdash; Moe&#39;sSouthwestGrill (@Moes_HQ) <a href="https://twitter.com/Moes_HQ/status/642042485464780800">September 10, 2015</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+43. Tickets to a TV show screening
+<blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/Houston?src=hash">#Houston</a>! RT for a chance to win 2 tickets to TONIGHT&#39;s VIP screening of <a href="https://twitter.com/RosewoodFOX">@RosewoodFOX</a> &amp; a sneak peak of <a href="https://twitter.com/EmpireFOX">@EmpireFOX</a>! <a href="http://t.co/Bll4VOlU0X">pic.twitter.com/Bll4VOlU0X</a></p>&mdash; VibeMagazine (@VibeMagazine) <a href="https://twitter.com/VibeMagazine/status/644222682620301312">September 16, 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+44. A book about banking
+<blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">What are you creating? Comment &amp; RT to WIN The Banker&#39;s Code! Learn tried &amp; true methods of <a href="https://twitter.com/hashtag/Wealth?src=hash">#Wealth</a> Building! <a href="http://t.co/FgEwzRK9Bi">pic.twitter.com/FgEwzRK9Bi</a></p>&mdash; MPactWealth (@MPactWealth) <a href="https://twitter.com/MPactWealth/status/643851743579779072">September 15, 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+45. Two tickets to see John Mack Millan in Boone, NC
+<blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">Retweet for a chance to win 2 tickets to the John Mark McMillan concert this Friday night in Boone NC.&#10;&#10;<a href="https://twitter.com/johnmarkmc">@johnmarkmc</a> &#10;&#10;<a href="http://t.co/okvCgxiimu">http://t.co/okvCgxiimu</a></p>&mdash; Jason English (@jason_english) <a href="https://twitter.com/jason_english/status/643891081822740480">September 15, 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+46. Tickets to see a screening
+<blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">Winner to be chosen at 4pm! Follow us &amp; RT <a href="https://twitter.com/hashtag/win?src=hash">#win</a> 2 tickets to see classic The Full Monty this Thursday 17th 7pm @ Q-Park Castlegate Sheffield</p>&mdash; Q-Park UK (@QPark_UK) <a href="https://twitter.com/QPark_UK/status/644146723837882368">September 16, 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
