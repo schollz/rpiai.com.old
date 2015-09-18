@@ -175,3 +175,18 @@ However, I have actually entered Z contests. Assuming the above, that means that
 46. Tickets to see a screening
 <blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">Winner to be chosen at 4pm! Follow us &amp; RT <a href="https://twitter.com/hashtag/win?src=hash">#win</a> 2 tickets to see classic The Full Monty this Thursday 17th 7pm @ Q-Park Castlegate Sheffield</p>&mdash; Q-Park UK (@QPark_UK) <a href="https://twitter.com/QPark_UK/status/644146723837882368">September 16, 2015</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+47. Lifetime use of website
+<blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">Follow us and RT for a chance to win lifetime access to <a href="http://t.co/iK4IzuNzeb">http://t.co/iK4IzuNzeb</a> <a href="https://twitter.com/hashtag/ccna?src=hash">#ccna</a> <a href="https://twitter.com/hashtag/freestuff?src=hash">#freestuff</a> <a href="https://twitter.com/hashtag/cisco?src=hash">#cisco</a> <a href="http://t.co/DR8Iu7sF2m">pic.twitter.com/DR8Iu7sF2m</a></p>&mdash; CCNA Train (@ccnatrain) <a href="https://twitter.com/ccnatrain/status/644631626526425093">September 17, 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+48. Tickets to music show
+<blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">NEW CONTEST: Follow &amp; retweet to win 2 tix to Cloak &amp; Dagger on 9/18! Winner chosen 9/17. Sponsor: Gas Monkey Bar N&#39; Grill.</p>&mdash; Daily Campus Deals (@DCDeals4SMU) <a href="https://twitter.com/DCDeals4SMU/status/643561380767858688">September 14, 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+49. Tickets to comedy show
+<blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">RT to win one of three pairs of Tickets for <a href="https://twitter.com/ivandecker">@ivandecker</a> <a href="https://twitter.com/mtl_comedyworks">@mtl_comedyworks</a> this weekend. Three pairs to win! <a href="http://t.co/cWKGVWyhhj">pic.twitter.com/cWKGVWyhhj</a></p>&mdash; Comedyworks (@mtl_comedyworks) <a href="https://twitter.com/mtl_comedyworks/status/644549987473457152">September 17, 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+50. Tickets to afterparty from film fest
+<blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">RT for a chance to win tickets to the premiere of <a href="https://twitter.com/hashtag/HyenaRoad?src=hash">#HyenaRoad</a> <a href="https://twitter.com/thefilmfest">@thefilmfest</a> + the AFTER PARTY in Halifax! TONIGHT!</p>&mdash; Elevation Pictures (@Elevation_Pics) <a href="https://twitter.com/Elevation_Pics/status/644593855103397888">September 17, 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+51. Tickets to a fashion show party
+<blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">We&#39;re celebrating London Fashion Week! Retweet to win yourself some free tickets for tomorrow evenings show and party! <a href="https://twitter.com/hashtag/londonfashionweek?src=hash">#londonfashionweek</a></p>&mdash; The Roof Gardens (@TheRoofGardens) <a href="https://twitter.com/TheRoofGardens/status/644458385543405568">September 17, 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
