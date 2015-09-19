@@ -190,3 +190,6 @@ However, I have actually entered Z contests. Assuming the above, that means that
 51. Tickets to a fashion show party
 <blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">We&#39;re celebrating London Fashion Week! Retweet to win yourself some free tickets for tomorrow evenings show and party! <a href="https://twitter.com/hashtag/londonfashionweek?src=hash">#londonfashionweek</a></p>&mdash; The Roof Gardens (@TheRoofGardens) <a href="https://twitter.com/TheRoofGardens/status/644458385543405568">September 17, 2015</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+52. Rugby ball
+<blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/Win?src=hash">#Win</a> an official <a href="https://twitter.com/hashtag/RWC2015?src=hash">#RWC2015</a> Rugby Ball. Simply RT &amp; FOLLOW US for a chance to win <a href="http://t.co/mfsOizgbrj">http://t.co/mfsOizgbrj</a> <a href="https://twitter.com/hashtag/RWCFanzone?src=hash">#RWCFanzone</a> <a href="http://t.co/OsNdNJQEwY">pic.twitter.com/OsNdNJQEwY</a></p>&mdash; Richmond Fanzone (@RichmondFanzone) <a href="https://twitter.com/RichmondFanzone/status/644094707467948033">September 16, 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
