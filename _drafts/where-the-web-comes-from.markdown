@@ -18,15 +18,13 @@ The internet is a history of giants standing on shoulders of giants. Its hard to
 - Apache - powers [51%](https://trends.builtwith.com/web-server) to [57% of all websites](http://w3techs.com/technologies/overview/web_server/all)
   Open-source software developed by [Robert McCool](https://en.wikipedia.org/wiki/Robert_McCool)
 
-- Jekyll - most popular static site generator. Open-source software developed by Github, the  [largest source code host in the world](http://flosshub.org/sites/flosshub.org/files/lean-ghtorrent.pdf)
-
-- Bootstrap - powers [1.9% of all sites, and ~10% of the top 10k sites](https://trends.builtwith.com/docinfo/Twitter-Bootstrap). It is a front-end framework developed by Mark Otto and Jacob Thornton at Twitter. Released as open-source.
-
-- Facebook (FriendFeed) - Tornado
-
-- Shopify - Liquid
-
-- Reddit -web2py
+- Jekyll - most popular static site generator. 
+  Open-source software developed by Github, the  [largest source code host in the world](http://flosshub.org/sites/flosshub.org/files/lean-ghtorrent.pdf)
+- Bootstrap - powers [1.9% of all sites, and ~10% of the top 10k sites](https://trends.builtwith.com/docinfo/Twitter-Bootstrap).
+  It is a front-end framework developed by Mark Otto and Jacob Thornton at Twitter. Released as open-source.
+- Facebook (FriendFeed) - [Tornado](https://backchannel.org/blog/tornado)
+- Shopify - [Liquid](https://docs.shopify.com/themes/liquid-documentation/basics)
+- Reddit - web2py
 - Pinterest has developed [Terrapin](https://engineering.pinterest.com/blog/open-sourcing-terrapin-serving-system-batch-generated-data-0)
 - AirBnb - [Airpal](http://nerds.airbnb.com/airpal/) and [Airflow](http://nerds.airbnb.com/airflow/)
 
