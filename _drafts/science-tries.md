@@ -13,6 +13,8 @@ description: What were the science ideas that succeeded and failed?
 
 *All these are projects that I spent at least a week on, sometimes quite more*
 
+[Google doc](https://docs.google.com/spreadsheets/d/12XvwpzOuwt69eqvVbLs3XeVX2hcm3GZ94F1I2zrpESY/edit#gid=0)
+
 # Statistics
 
 Started 55 projects. 
