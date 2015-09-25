@@ -13,6 +13,10 @@ description: What were the science ideas that succeeded and failed?
 
 *All these are projects that I spent at least a week on, sometimes quite more*
 
+# Statistics
+
+Started 55 projects. 
+
 # Working on
 
 1. Partitioning of Luciferase (emulating ribosome bound nascent chains)
@@ -84,3 +88,4 @@ description: What were the science ideas that succeeded and failed?
 3. Luciferase refolding and unfolding
 4. Streptavidin stabilization during unfolding
 5. Mechanical induced conformational changes of polydA
+6. Coiled-coil mechanical probe
