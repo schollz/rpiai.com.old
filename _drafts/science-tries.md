@@ -63,6 +63,8 @@ Started 55 projects.
 21. Stop-flow measurements of Protein S
 22. Simulating rupture force from exit-tunnel
 23. Deriving new analytical tools for understanding forced-unfolding
+24. Investigation into variance of contour-length measurements (simulations)
+25. Difference between chemical/heat/force unfolding
 
 # Finished but probably will never publish (due ot lack of novelty)
 
