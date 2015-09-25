@@ -32,7 +32,7 @@ description: What were the science ideas that succeeded and failed?
 8. Folding of Streptavidin (too hard to get results)
 9. Luciferase optical-trap experiments (could not get attachement to work)
 
-# Will never finish (not enough results, too time-consuming with low impact, lack of good results/motivation)
+# Started but likely will never finish (too time-consuming with low impact)
 
 1. Unfolding characteristics of Inosine
 2. Simulations of ribosome bound nascent chain folding (beat to punch)
@@ -55,12 +55,15 @@ description: What were the science ideas that succeeded and failed?
 19. Unfolding of protein with self-quenching dye
 20. polydA and polyrA QM calculations
 21. Stop-flow measurements of Protein S
+22. Simulating rupture force from exit-tunnel
+23. Deriving new analytical tools for understanding forced-unfolding
 
 # Finished but probably will never publish (due ot lack of novelty)
 
 1. Design of new AFM circuit
 2. Clustering algorithm/program for AFM curves
 3. Molecular dynamics vs AFM correlations
+4. Monte-carlo unfolding
 
 # Finished and could be published
 
