@@ -20,7 +20,7 @@ description: What were the science ideas that succeeded and failed?
 3. Kinetic partitioning of Luciferase folding simulations
 4. Experimental and simulated unfolding of denatured Luciferase
 
-# Fail (results were not at all what I expected)
+# Fail (simply didn't work or not likely to yield much useful data)
 
 1. RetroI27
 2. PCB of AFM circuit
@@ -76,7 +76,8 @@ description: What were the science ideas that succeeded and failed?
 
 # Published
 
-1. Automation of AFM
-2. Luciferase refolding and unfolding
-3. Streptavidin stabilization during unfolding
-4. Mechanical induced conformational changes of polydA
+1. Transcription factories
+2. Automation of AFM
+3. Luciferase refolding and unfolding
+4. Streptavidin stabilization during unfolding
+5. Mechanical induced conformational changes of polydA
