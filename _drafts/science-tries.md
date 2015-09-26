@@ -15,6 +15,16 @@ description: What were the science ideas that succeeded and failed?
 
 [Graph](https://docs.google.com/spreadsheets/d/12XvwpzOuwt69eqvVbLs3XeVX2hcm3GZ94F1I2zrpESY/pubhtml?gid=192644469&single=true)
 
+# Expectations vs. Reality
+
+1. Takes a long time (TRUE)
+2. Its fun if you like to learn (TRUE)
+3. One project (FALSE)
+
+## NOTES
+
+3rd/4th year at the limit o f
+
 # Observations
 
 Started 58 projects but ended up publishing only 6.
