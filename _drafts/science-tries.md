@@ -19,7 +19,7 @@ description: What were the science ideas that succeeded and failed?
 
 Started 58 projects but ended up publishing only 6.
 
-Ones that failed either because my idea was stupid or because it became impossible to gather data (Kimberely Clark proteins, 5 data points a week..)
+Ones that failed either because my idea was stupid or because it became impossible to gather data (Kimberely Clark proteins, FtsZ, 5 data points a week... and I have no ideas how to troubleshoot)
 
 Projects that were abandoned had a very low impact to time-investment ratio or were done by other groups in a way that I don't think I could compete with
 
