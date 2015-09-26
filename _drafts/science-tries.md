@@ -15,9 +15,19 @@ description: What were the science ideas that succeeded and failed?
 
 [Graph](https://docs.google.com/spreadsheets/d/12XvwpzOuwt69eqvVbLs3XeVX2hcm3GZ94F1I2zrpESY/pubhtml?gid=192644469&single=true)
 
-# Statistics
+# Observations
 
-Started 55 projects. 
+Started 58 projects but ended up publishing only 6.
+
+Ones that failed either because my idea was stupid or because it became impossible to gather data (Kimberely Clark proteins, 5 data points a week..)
+
+Projects that were abandoned had a very low impact to time-investment ratio or were done by other groups in a way that I don't think I could compete with
+
+Projects that were finished but never published were things that improved software or hardware by making them less expensive (AFM circuit) or minimized time-consuming processes (clustering) but weren't nessecarily novel.
+
+Finished and could be published are projects that I initially had as part of another project but my advisor had me cut out to make the story more concise.
+
+Most published projects are 2-3 of these individual projects combined.
 
 # Working on
 
