@@ -10,6 +10,9 @@ description: Some of my favorite music
 ---
 
 - Rachmaninov - Symphonic Dances (1st movement: Non allegro)
+
   Just listen to [this string sweep](https://youtu.be/46fe9x_4HqQ?t=5m33s) or [this one](https://youtu.be/46fe9x_4HqQ?t=10m40s).
+
 - Debussy - La Mer, De L'Aube Á Midi Sur La Mer
+
   Amazing string arpeggios [here](https://youtu.be/9X_V4us1o_E?t=8m1s)
