@@ -29,4 +29,7 @@ The internet is a history of giants standing on shoulders of giants. Its hard to
 - AirBnb - [Airpal](http://nerds.airbnb.com/airpal/) and [Airflow](http://nerds.airbnb.com/airflow/)
 - Dropbox - [Zulip](https://www.zulip.org/)
 
-## Are they popular because they are free or because they are good? And are they good because they are fre?
+
+[78% of companies run on open-source software](https://web.archive.org/web/20151001124540/http://www.zdnet.com/article/its-an-open-source-world-78-percent-of-companies-run-open-source-software/)
+
+## Are they popular because they are free or because they are good? And are they good because they are free?
