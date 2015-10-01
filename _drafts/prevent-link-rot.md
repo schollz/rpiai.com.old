@@ -10,7 +10,17 @@ description: Trying to redevelop the web to make it more permanent
 
 # What is "link rot"?
 
-**Link rot** is real, it is common, and it is pervasive. What is **link rot**? Link rot is essentially *the process by which hyperlinks cease to function, usually because the web page or server they point to has moved or has become permanently unavailable*. It has existed since the internet began. An example of its influence can be seen as recently as 2000, when [a study](http://dx.doi.org/10.1002/bmb.2003.494031010165) found that within 24 months, 50% of .com domains and 20% of .gov domains were no longer viable. [1] [Another study](http://dx.doi.org/10.1017/S1472669614000255) found that 70% of links in Harvard Law Review and 50% of links within the United States Supreme Court opinions are no longer viable. [2] If we are to take the internet as a primary resource seriously, then we seriously need to think about undertaking a better way of long-term preservation of link contents.
+**Link rot** is real, it is common, and it is pervasive. Link rot is essentially *the process by which hyperlinks cease to function, usually because the web page or server they point to has moved or has become permanently unavailable*. It has existed since the internet began. 
+
+# Web pages are ephemeral
+
+[Examples of link rot are far and wide](https://web.archive.org/web/20151001235130/http://www.informationr.net/ir/9-2/paper174.html). As recently as 2000, [a study](http://dx.doi.org/10.1002/bmb.2003.494031010165) found that within 24 months, 50% of .com domains and 20% of .gov domains were no longer viable. [1] [Another study](http://dx.doi.org/10.1017/S1472669614000255) found that 70% of links in Harvard Law Review and 50% of links within the United States Supreme Court opinions are no longer viable. [2] If we are to take the internet as a primary resource seriously, then we seriously need to think about undertaking a better way of long-term preservation of link contents.
+
+# Link rot is pervasive
+
+# What is the half-life of a link?
+
+There are a number of sources that have looked into the [half-life](https://en.wikipedia.org/wiki/Half-life) of a website. Random web pages seem to have a half-life of about 2 years [3], legal citations 1.4 years [4], communication articles 3.2 years [5]. Digital libraries have a much higher persistance, as their half-life is about 24.5 years [6].
 
 ## How stop link rot
 
@@ -32,3 +42,7 @@ Try the demo [here](http://permalinker.duckdns.org/).
 
 1. Markwell, John, and David W. Brooks. "“Link rot” limits the usefulness of web‐based educational materials in biochemistry and molecular biology*." Biochemistry and Molecular Biology Education 31.1 (2003): 69-72.
 2. Zittrain, Jonathan, Kendra Albert, and Lawrence Lessig. "Perma: Scoping and addressing the problem of link and reference rot in legal citations." Legal Information Management 14.02 (2014): 88-99.
+3. Koehler, Wallace. "Web page change and persistence—A four‐year longitudinal study." Journal of the American Society for Information Science and Technology 53.2 (2002): 162-171.
+4. Rumsey, Mary. "Runaway Train: Problems of Permancence, Accessibility, and Stability in the Use of Web Sources in Law Review Citations." Law Libr. J. 94 (2002): 27.
+5. Dimitrova, Daniela V., and Michael Bugeja. "The half-life of internet references cited in communication journals." New Media & Society 9.5 (2007): 811-826.
+6. Nelson, Michael L., and B. Danette Allen. "Object persistence and availability in digital libraries." D-Lib magazine 8.1 (2002): 1082-9873.
