@@ -34,6 +34,8 @@ Link rot can be combated in several ways.
 
 # My attempt at stopping link rot.
 
+In an effort to try to stop link rot, I've created a simple web app that convers all links to archivable links. The code is available at [http://github.com/schollz/prevent-link-rot](https://github.com/schollz/prevent-link-rot). Here is a snapshot:
+
 ## Snapshot
 
 ![Screenshot](http://i.imgur.com/LSM8HUU.jpg)
