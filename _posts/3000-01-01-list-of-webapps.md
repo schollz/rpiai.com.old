@@ -90,9 +90,9 @@ $( document ).ready(function() {
     var ele = $( this );
       console.log(ele.attr('href'));
     if (isValidURL(ele.attr('href')) == true) {
-      ele.toggleClass("successPing");
+       ele.after( "<img src='https://img.shields.io/badge/webiste-online-green.svg'>"  );
     } else {
-      ele.toggleClass( "failPing" );
+               ele.after( "<img src='https://img.shields.io/badge/webiste-offline-red.svg'>"  );
     }
   });
     }, 100);
