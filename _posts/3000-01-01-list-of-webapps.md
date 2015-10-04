@@ -10,6 +10,8 @@ description: A List of my web apps, current, and defunct
 
 # [Music Suggestions Ninja](http://www.musicsuggestions.ninja/)
 
+![Screenshot of Music Suggestions Ninja](/assets/images/screencapture-www-musicsuggestions-ninja-1443972446616.png)
+
 Hosted at ips
 
 # [Pierian spring](http://pierian.duckdns.org/)
