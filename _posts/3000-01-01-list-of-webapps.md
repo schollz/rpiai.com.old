@@ -17,7 +17,7 @@ description: A List of my web apps, current, and defunct
   </nav>
 
   <section>
-    <span><h2><a href="http://www.musicsuggestions.ninja/">http://www.musicsuggestions.ninja/</a></h2>
+    <span><h2><a href="http://www.musicsuggestions.ninja/" class="checkUrl">http://www.musicsuggestions.ninja/</a></h2>
 </span>
     <p>Notice we have put a clearfix on the div container. It is not needed in this example, but it would be if the nav element was longer than the non-floated section content.</p>
   </section>
@@ -100,7 +100,7 @@ function isValidURL(url) {
 
 $( document ).ready(function() {
       setTimeout(function() {
-  $( "a.website" ).each(function() {
+  $( "a.checkUrl" ).each(function() {
     var ele = $( this );
       console.log(ele.attr('href'));
     if (isValidURL(ele.attr('href')) == true) {
