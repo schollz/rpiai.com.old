@@ -161,6 +161,24 @@ description: A List of my web apps, current, and defunct
 
 </div>
 
+<div class="clearfix">
+
+<div class="nav">
+<img src='/assets/images/screencapture-rpiai-com-1443981810759.png' width=200></img>
+  </div>
+
+  <section>
+    <span><h2><a href="http://choices.duckdns.org.com" class="checkUrl">choices</a></h2>
+</span>
+    <p><strong>CHOICES</strong> is a nice feed-like program that I wrote before I had discovered <a href="http://feedly.com/i/my">feedly</a>.</p>
+    <p><a href="https://github.com/schollz/choices">Github</a></p>
+  </section>
+
+  <section>
+  <i>Hosted at github</i>
+  </section>
+
+</div>
 
 <style>
 .clearfix {
