@@ -5,6 +5,13 @@ permalink: /about/
 weight: 10
 ---
 
+### My favorite sites
+
+[feedly](http://feedly.com/)
+
+[are.na](https://www.are.na/z-s/)
+
+
 ### Theme
 
 Theme based on [my tiny-footprint Jekyll theme](https://github.com/schollz/jekyll-minimal)
