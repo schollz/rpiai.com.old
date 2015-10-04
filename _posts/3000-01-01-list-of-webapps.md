@@ -35,3 +35,7 @@ Hosted at github
 # [Science, so what, who cares](http://sciencesowhatwhocares.xyz/)
 
 Hosted at github
+
+# [rpiai.com](http://rpiai.com/)
+
+Hosted at github
