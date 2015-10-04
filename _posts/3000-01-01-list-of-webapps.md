@@ -12,7 +12,6 @@ description: A List of my web apps, current, and defunct
 <div class="clearfix">
 
 <nav>
-  <span>nav</span>
 <img src='/assets/images/screencapture-www-musicsuggestions-ninja-1443972446616.png' width=200></img>
 
   </nav>
@@ -64,10 +63,6 @@ Hosted at github
 
 
 <style>
-div {
-    border: 3px solid blue;
-}
-
 .clearfix {
     overflow: auto;
 }
