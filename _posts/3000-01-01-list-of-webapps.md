@@ -10,7 +10,9 @@ description: A List of my web apps, current, and defunct
 
 <a href="http://www.musicsuggestions.ninja/" class="website">Music Suggestions Ninja</a>
 
-![Screenshot of Music Suggestions Ninja](/assets/images/screencapture-www-musicsuggestions-ninja-1443972446616.png)
+<center>
+<img src='/assets/images/screencapture-www-musicsuggestions-ninja-1443972446616.png' width=100></img>
+</center>
 
 Hosted at ips
 
