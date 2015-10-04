@@ -8,11 +8,28 @@ landing: true
 description: A List of my web apps, current, and defunct
 ---
 
-# [Music Suggestions Ninja](http://musicsuggestions.ninja/)
 
-<center>
-<img src='/assets/images/screencapture-www-musicsuggestions-ninja-1443972446616.png' width=100></img>
-</center>
+<div class="clearfix">
+
+<nav>
+  <span>nav</span>
+<img src='/assets/images/screencapture-www-musicsuggestions-ninja-1443972446616.png' width=200></img>
+
+  </nav>
+
+  <section>
+    <span><h2><a href="http://www.musicsuggestions.ninja/">http://www.musicsuggestions.ninja/</a></h2>
+</span>
+    <p>Notice we have put a clearfix on the div container. It is not needed in this example, but it would be if the nav element was longer than the non-floated section content.</p>
+  </section>
+
+  <section>
+    <span>section</span>
+    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus imperdiet, nulla et dictum interdum, nisi lorem egestas odio, vitae scelerisque enim ligula venenatis dolor. Maecenas nisl est, ultrices nec congue eget, auctor vitae massa. Fusce luctus vestibulum augue ut aliquet.</p>
+  </section>
+
+</div>
+
 
 Hosted at ips
 
@@ -47,20 +64,22 @@ Hosted at github
 
 
 <style>
-  .successPing {
-    clear: left;
-    border-radius: 25px;
-    background: #8AC007;
-    display:inline;
-    padding: 2px;
-  }
-  .failPing {
-    clear: left;
-    border-radius: 25px;
-    background: red;
-    display:inline;
-    padding: 2px;
-  }
+div {
+    border: 3px solid blue;
+}
+
+.clearfix {
+    overflow: auto;
+}
+
+nav {
+    float: left;
+    width: 200px;
+}
+
+section {
+    margin-left: 206px;
+}
 </style>
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
 <script>
@@ -86,7 +105,7 @@ function isValidURL(url) {
 
 $( document ).ready(function() {
       setTimeout(function() {
-  $( "a" ).each(function() {
+  $( "a.website" ).each(function() {
     var ele = $( this );
       console.log(ele.attr('href'));
     if (isValidURL(ele.attr('href')) == true) {
