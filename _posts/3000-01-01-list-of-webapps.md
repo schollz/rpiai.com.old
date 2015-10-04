@@ -86,7 +86,7 @@ function isValidURL(url) {
 
 $( document ).ready(function() {
       setTimeout(function() {
-  $( "a.website" ).each(function() {
+  $( "a" ).each(function() {
     var ele = $( this );
       console.log(ele.attr('href'));
     if (isValidURL(ele.attr('href')) == true) {
