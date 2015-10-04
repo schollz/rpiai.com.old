@@ -8,7 +8,7 @@ landing: true
 description: A List of my web apps, current, and defunct
 ---
 
-<a href="http://www.musicsuggestions.ninja/" class="website">Music Suggestions Ninja</a>
+# [Music Suggestions Ninja](http://musicsuggestions.ninja/)
 
 <center>
 <img src='/assets/images/screencapture-www-musicsuggestions-ninja-1443972446616.png' width=100></img>
@@ -90,9 +90,9 @@ $( document ).ready(function() {
     var ele = $( this );
       console.log(ele.attr('href'));
     if (isValidURL(ele.attr('href')) == true) {
-       ele.after( "<img src='https://img.shields.io/badge/webiste-online-green.svg'>"  );
+       ele.after( "<img src='https://img.shields.io/badge/website-online-green.svg'>"  );
     } else {
-               ele.after( "<img src='https://img.shields.io/badge/webiste-offline-red.svg'>"  );
+               ele.after( "<img src='https://img.shields.io/badge/website-offline-red.svg'>"  );
     }
   });
     }, 100);
