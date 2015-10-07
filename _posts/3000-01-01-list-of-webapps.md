@@ -184,23 +184,7 @@ description: A List of my web apps, current, and defunct
 
 
 
-<div class="clearfix">
 
-<div class="nav">
-<img src='' width=200></img>
-  </div>
-
-  <section>
-    <span><h2><a href="http://sciencesowhatwhocares.xyz/" class="checkUrl">Science, so what? Who cares?</a></h2>
-</span>
-    <p>A blog I've created about the latest science.</p>
-  </section>
-
-  <section>
-  <i>Hosted at github</i>
-  </section>
-
-</div>
 
 <style>
 .clearfix {
