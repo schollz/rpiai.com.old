@@ -220,3 +220,6 @@ However, I have actually entered Z contests. Assuming the above, that means that
 61. Pickapeppa sauce swag
 <blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">Congrats to <a href="https://twitter.com/TheBeerGuzzlers">@TheBeerGuzzlers</a>! You win FREE Pickapeppa <a href="https://twitter.com/hashtag/swag?src=hash">#swag</a> which includes BEER KOOZIES! DM us for details!</p>&mdash; Pickapeppa Sauce (@Pickapeppa) <a href="https://twitter.com/Pickapeppa/status/646757471864946688">September 23, 2015</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+62. Superglue 
+<blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">Super glue keeps your stuff super secure, just the way we like it. RT to win a fresh new bottle. <a href="https://twitter.com/hashtag/SuperGlueSaturday?src=hash">#SuperGlueSaturday</a> <a href="http://t.co/DxdBgGraQd">pic.twitter.com/DxdBgGraQd</a></p>&mdash; LivSecure (@LivSecure) <a href="https://twitter.com/LivSecure/status/647821701804224512">September 26, 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
