@@ -14,8 +14,8 @@ twitter_username: zack_118
 github_username:  schollz
 
 # Optionals
-disqus_shortname: "rpiai"
-google_analytics: "UA-2345677-6"
+#disqus_shortname: "rpiai"
+#google_analytics: "UA-2345677-6"
 
 gems:
   - jekyll-sitemap
