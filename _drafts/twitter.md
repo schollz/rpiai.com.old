@@ -226,3 +226,9 @@ However, I have actually entered Z contests. Assuming the above, that means that
 63. Vibrator
 <blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">Only 4 days left to <a href="https://twitter.com/hashtag/RT?src=hash">#RT</a> for a chance to <a href="https://twitter.com/hashtag/win?src=hash">#win</a> <a href="https://twitter.com/EdenFantasys">@EdenFantasys</a> Unity Couple&#39;s Vibe! <a href="http://t.co/ZpMTjLP4c7">http://t.co/ZpMTjLP4c7</a> <a href="https://twitter.com/hashtag/vibrators?src=hash">#vibrators</a> <a href="http://t.co/11rIwx6iNE">pic.twitter.com/11rIwx6iNE</a></p>&mdash; EdenFantasys.com (@EdenFantasys) <a href="https://twitter.com/EdenFantasys/status/651380554890354688">October 6, 2015</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+64. Madden 2015 for PS4
+<blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">Who wants madden 15 for ps4 unopened free. It&#39;s last year&#39;s game but hey it&#39;s just collecting dust here and it&#39;s free. Rt to win it.</p>&mdash; Nerd Out (@Out2Nerd) <a href="https://twitter.com/Out2Nerd/status/655523138277625856">October 17, 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+65. Tickets to emerald coast party
+<blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">Retweet for a chance to win 2 tickets to <a href="https://twitter.com/hashtag/BestofEC?src=hash">#BestofEC</a> on 10/24 at <a href="https://twitter.com/GrandBoulevard">@GrandBoulevard</a>! Winner will be picked 10/16 @ 4 pm. <a href="http://t.co/ooGuNZQLEr">pic.twitter.com/ooGuNZQLEr</a></p>&mdash; Emerald Coast Mag (@EmeraldCoastMag) <a href="https://twitter.com/EmeraldCoastMag/status/654688245909843973">October 15, 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
