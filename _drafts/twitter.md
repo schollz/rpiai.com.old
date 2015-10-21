@@ -232,3 +232,6 @@ However, I have actually entered Z contests. Assuming the above, that means that
 65. Tickets to emerald coast party
 <blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">Retweet for a chance to win 2 tickets to <a href="https://twitter.com/hashtag/BestofEC?src=hash">#BestofEC</a> on 10/24 at <a href="https://twitter.com/GrandBoulevard">@GrandBoulevard</a>! Winner will be picked 10/16 @ 4 pm. <a href="http://t.co/ooGuNZQLEr">pic.twitter.com/ooGuNZQLEr</a></p>&mdash; Emerald Coast Mag (@EmeraldCoastMag) <a href="https://twitter.com/EmeraldCoastMag/status/654688245909843973">October 15, 2015</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+66. DVD of movie
+<blockquote class="twitter-tweet" data-cards="hidden" lang="en"><p lang="en" dir="ltr">RT for a chance to win a DVD copy of Vatican Tapes starring talented <a href="https://twitter.com/realmichaelpena">@realmichaelpena</a> <a href="https://twitter.com/OliviaDudley">@OliviaDudley</a> <a href="https://twitter.com/hashtag/VaticanTapes?src=hash">#VaticanTapes</a> <a href="http://t.co/KQVsT4fnif">pic.twitter.com/KQVsT4fnif</a></p>&mdash; Style Habit (@HabitStyle) <a href="https://twitter.com/HabitStyle/status/655433258776182784">October 17, 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
