@@ -235,6 +235,6 @@ However, I have actually entered Z contests. Assuming the above, that means that
 66. DVD of movie
 <blockquote class="twitter-tweet" data-cards="hidden" lang="en"><p lang="en" dir="ltr">RT for a chance to win a DVD copy of Vatican Tapes starring talented <a href="https://twitter.com/realmichaelpena">@realmichaelpena</a> <a href="https://twitter.com/OliviaDudley">@OliviaDudley</a> <a href="https://twitter.com/hashtag/VaticanTapes?src=hash">#VaticanTapes</a> <a href="http://t.co/KQVsT4fnif">pic.twitter.com/KQVsT4fnif</a></p>&mdash; Style Habit (@HabitStyle) <a href="https://twitter.com/HabitStyle/status/655433258776182784">October 17, 2015</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-67. Comedy Central swag
+67. Comedy Central swag ($250 worth?)
 <blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">RT for a chance to win <a href="https://twitter.com/ComedyCentral">@ComedyCentral</a> swag! Listen to <a href="https://twitter.com/randyliedtke">@randyliedtke</a>&#39;s album <a href="https://twitter.com/hashtag/ImOnARoll?src=hash">#ImOnARoll</a>: <a href="http://t.co/evNmEM0mS9">http://t.co/evNmEM0mS9</a> <a href="http://t.co/CVYScqGCEQ">pic.twitter.com/CVYScqGCEQ</a></p>&mdash; TheLaughButton.com (@thelaughbutton) <a href="https://twitter.com/thelaughbutton/status/656157660883111936">October 19, 2015</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
