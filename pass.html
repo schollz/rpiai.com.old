@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Crypto</title>
+<style>
+/**page style**/
+
+body {
+	margin: 0px auto;
+	padding: 0px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 13px;
+}
+</style>
+
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/2.0.0/jquery.min.js" ></script>
+<script src="http://crypto-js.googlecode.com/svn/tags/3.1.2/build/rollups/aes.js"></script>
+<link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css" rel="stylesheet" integrity="sha256-MfvZlkHCEqatNoGiOXveE8FIwMzZg4W85qfrfIFBfYc= sha512-dTfge/zgoMYpP7QbHy4gWMEGsbsdZeCXz7irItjcC3sPUFtf0kuFbDz/ixG7ArTxmDjLXDmezHubeNikyKGVyQ==" crossorigin="anonymous">
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js" integrity="sha256-Sk3nkD6mLTMOF0EOpNtsIry+s1CsaqQC1rVLTAy+0yc= sha512-K1qjQ+NcF2TYO/eI3M6v8EiNYZfA95pQumfvcVrTHtwQVDG+aHRqLi/ETn2uB+1JqwYqVG3LIvdm9lj6imS/pQ==" crossorigin="anonymous"></script>
+
+<script>
+
+function display(text) {
+	$('#form').fadeOut('slow', function() {
+		$('#outputBox').text(text);
+		$('#outputContainer').fadeIn('slow');
+	});
+};
+
+$(document).ready(function() {
+	$('#outputContainer').hide();
+	
+	$('#outputContainer').focus(function () { // select text on focus
+        $(this).select();
+    });
+
+	//needs to be inside here os jquery is defined?
+	show = function(text) {
+		$('#form').fadeOut('slow', function() {
+			$('#outputBox').text(text);
+			$('#outputContainer').fadeIn('slow');
+		});
+	};
+	
+	$(window).keypress(function(e) {
+		if(e.which == 13) {
+			$(this).blur();
+			$('#submit').focus().click();
+		}
+	});
+	
+	$('#encode').click(function() {
+		msg = $('#inputtext').val();
+		passphrase = $('#passphrase').val();
+		show(CryptoJS.AES.encrypt(msg.trim(),passphrase.trim()).toString());
+	});
+	
+	$('#decode').click(function() {
+		msg = $('#inputtext').val();
+		passphrase = $('#passphrase').val();
+		show(CryptoJS.AES.decrypt(msg.trim(),passphrase.trim()).toString(CryptoJS.enc.Latin1));
+	});	
+	$('#another').click(function() {
+		$('#inputtext').val("");
+		$('#passphrase').val("");
+		$('#outputContainer').hide();	
+		$('#form').fadeIn('slow');	
+	});
+	
+	});
+</script>
+</head>
+<body>
+<br>
+<div class="container-fluid">
+
+	<div id="form">
+
+<form>
+  <div class="form-group">
+    <input type="text" class="form-control input-lg" id="inputtext" placeholder="Message">
+  </div>
+  <div class="form-group">
+    <input type="password" class="form-control input-lg" id="passphrase" placeholder="Password">
+  </div>
+		<button type="button" id="encode" value="encrypt" class="btn btn-default btn-lg btn-block">Encrypt</button>
+		<br/>
+		<button type="button" id="decode" value="decrypt" class="btn btn-default btn-lg btn-block">Decrypt</button>
+
+</form>
+
+	</div>
+	<center>
+	<div id="outputContainer">
+	<div id="outputBox" class="lead" style="word-wrap: break-word;"></div>
+			<button type="button" id="another" class="btn btn-default btn-lg btn-block">Another</button>
+	</div>
+	</center>
+
+</div>
+
+<script>
+document.getElementById("inputtext").focus();
+</script>
+</body>
+</html>
