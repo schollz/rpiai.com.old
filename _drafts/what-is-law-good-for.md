@@ -12,6 +12,10 @@ How can we understand the false positives and false negatives of law?
 
 Is law just a vastly complicated system of redistributing wealth?
 
+How likely are the decisions correct?
+
+https://en.wikipedia.org/wiki/2014_term_opinions_of_the_Supreme_Court_of_the_United_States
+
 
 # References
 
