@@ -14,6 +14,9 @@ Is law just a vastly complicated system of redistributing wealth?
 
 How likely are the decisions correct?
 
+In fact, in the past 15 years, the Supreme Court justices have at least one disagreement 50% of the time. (SHOW GRAPHIC).
+
+
 https://en.wikipedia.org/wiki/2014_term_opinions_of_the_Supreme_Court_of_the_United_States
 
 
