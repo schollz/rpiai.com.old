@@ -46,6 +46,9 @@ However, I have actually entered Z contests. Assuming the above, that means that
 7. DVD of Key and Peele seasons 1+2
 8. PS4 game Madden 2015
 
+Total revenue: $70
+Total expenses: 
+
 # Sample of contests won
 
 1.  Autographed cookbook  
