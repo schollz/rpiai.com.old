@@ -35,7 +35,18 @@ How many of the retweets are even real? Maybe not many of them. Suppose on avera
 
 However, I have actually entered Z contests. Assuming the above, that means that Z-XY contests are not real - that is (Z-XY)/Z percent of all contests have no intention of physically or electronically providing you with a prize.
 
-# List of contests won
+
+# Physical contests recieved
+
+1. Limited South Park Monopoly (worth $150)
+2. Workaholics bobblehead
+4. $50 gift certificate to Amazon
+5. $20 gift certificate to Amazon
+6. DVD of the Vatican Tapes
+7. DVD of Key and Peele seasons 1+2
+8. PS4 game Madden 2015
+
+# Sample of contests won
 
 1.  Autographed cookbook  
 <blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">Follow and retweet for a chance to win <a href="https://twitter.com/CHEF_LYNN">@CHEF_LYNN</a> autographed cookbook (contest ends 8 am Aug 17) <a href="https://twitter.com/hashtag/steinanddine?src=hash">#steinanddine</a></p>&mdash; K-W Oktoberfest Inc. (@KW_Oktoberfest) <a href="https://twitter.com/KW_Oktoberfest/status/632605172884082688">August 15, 2015</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script> <blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">Congratulations <a href="https://twitter.com/music_sug_ninja">@music_sug_ninja</a> on winning the RT contest for a signed copy of <a href="https://twitter.com/CHEF_LYNN">@CHEF_LYNN</a>&#39;s cookbook.</p>&mdash; K-W Oktoberfest Inc. (@KW_Oktoberfest) <a href="https://twitter.com/KW_Oktoberfest/status/633303849621565440">August 17, 2015</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
