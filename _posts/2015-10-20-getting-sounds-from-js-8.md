@@ -1,3 +1,22 @@
+---
+layout: post
+title: How to download the sounds from a JS-8
+date: 2015-10-20
+comments: true
+landing: true
+tags: [music, sounds, loops, roland]
+description: How to download sound loops from a JS-8
+---
+
+Boss makes a really cool Audio player with guitar effects, the JS-8. It turns out that some of the cool sounds that is has can be downloaded directly via a little hacking.
+
+<br>
+<div class="row">
+<div class="col-md-3"></div>
+<div class="col-md-6"><img src="http://{{ site.url }}{{ site.baseurl }}/assets/images/js-8_front_main.jpg" alt="JS-8 from Boss" class="img-responsive center-block"></div>
+<div class="col-md-3"></div>
+</div>
+<br> 
 
 ### How to download the JS-8 sounds
 
