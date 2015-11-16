@@ -20,6 +20,20 @@ In fact, in the past 15 years, the Supreme Court justices have at least one disa
 https://en.wikipedia.org/wiki/2014_term_opinions_of_the_Supreme_Court_of_the_United_States
 
 
+How can there be improvements?
+
+### Peer-review process
+
+Like the appeals circuit, but more widespread. Get 3 judges from somewhere else to review the facts of a case and deliberate on what the ruling should be.
+
+### Multiple trials
+
+Conduct several trials in parallel to determine a statistically significant outcome
+
+### Control the false-positive rate
+
+Impossible to do, but somehow collect statistics on what the verdict should have really been and then monitor the FPR.
+
 # References
 
 Gross, Samuel R., et al. "Rate of false conviction of criminal defendants who are sentenced to death." Proceedings of the National Academy of Sciences 111.20 (2014): 7230-7235. [Linkn](http://www.pnas.org/content/111/20/7230.full)
