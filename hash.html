@@ -17,15 +17,13 @@ body {
 </style>
 
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/2.0.0/jquery.min.js" ></script>
-<script type="text/javascript" src="http://crypto-js.googlecode.com/files/2.0.0-crypto-sha1.js"></script>
-<script type="text/javascript" src="http://crypto-js.googlecode.com/files/2.0.0-hmac-min.js"></script>
 <script type="text/javascript" src="/assets/js/hashes.min.js"></script>
 <script src="http://crypto-js.googlecode.com/svn/tags/3.1.2/build/rollups/aes.js"></script>
 <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css" rel="stylesheet" integrity="sha256-MfvZlkHCEqatNoGiOXveE8FIwMzZg4W85qfrfIFBfYc= sha512-dTfge/zgoMYpP7QbHy4gWMEGsbsdZeCXz7irItjcC3sPUFtf0kuFbDz/ixG7ArTxmDjLXDmezHubeNikyKGVyQ==" crossorigin="anonymous">
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js" integrity="sha256-Sk3nkD6mLTMOF0EOpNtsIry+s1CsaqQC1rVLTAy+0yc= sha512-K1qjQ+NcF2TYO/eI3M6v8EiNYZfA95pQumfvcVrTHtwQVDG+aHRqLi/ETn2uB+1JqwYqVG3LIvdm9lj6imS/pQ==" crossorigin="anonymous"></script>
 
 <script>
-
+var MD5 = new Hashes.MD5;
 function display(text) {
 	$('#form').fadeOut('slow', function() {
 		$('#outputBox').text(text);
@@ -58,7 +56,7 @@ $(document).ready(function() {
 	$('#encode').click(function() {
 		msg = $('#inputtext').val().toLowerCase();
 		passphrase = $('#passphrase').val();
-		show(Crypto.HMAC(Crypto.SHA1, msg,passphrase).toString(CryptoJS.enc.Latin1));
+		show(MD5.hex(msg+passphrase)));
 	});
 	
 
