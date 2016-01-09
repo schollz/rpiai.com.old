@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Speech-to-text on Raspberry Pi using Pocketsphinx
-date: 2015-04-25
+date: 2016-01-08
 comments: true
 archive: false
 tags: [speech-to-text, stt, pocketsphinx, raspberry pi]
