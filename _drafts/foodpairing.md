@@ -10,3 +10,10 @@ description: What are the best pair of foods to combine for a recipe?
 ---
 
 All about foodpairing.ninja
+
+
+Why food pairing?
+
+# Method
+
+Search through several food websites 
