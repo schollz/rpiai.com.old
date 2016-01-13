@@ -17,3 +17,8 @@ Why food pairing?
 # Method
 
 Search through several food websites 
+
+
+Other food pairing websites:
+
+https://www.foodpairing.com/en/home (monthly cost)
