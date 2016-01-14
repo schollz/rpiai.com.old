@@ -18,6 +18,7 @@ Why food pairing?
 
 Search through several food websites 
 
+Analyze the average rating of all the recipes for a given ingredient.
 
 Other food pairing websites:
 
