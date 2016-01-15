@@ -9,7 +9,9 @@ landing: true
 description: What are the best pair of foods to combine for a recipe?
 ---
 
-All about foodpairing.ninja
+All about [Food Pairing Ninja](http://www.foodpairing.ninja/)
+
+![Food Pairing image](http://www.foodpairing.ninja/allfoods.png)
 
 
 Why food pairing?
