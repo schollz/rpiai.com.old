@@ -5,16 +5,17 @@ permalink: /about/
 weight: 10
 ---
 
-### My favorite sites
+My name is Zack. I'm a researcher and tinkerer. Lately I've been tinkering with software and hardware. Some of my projects include:
 
-[feedly](http://feedly.com/)
+- [Poetry Generator Ninja](http://www.poetrygenerator.ninja/poem/9f3d59e703fce8f4) - a simple AI for making poems
+- [Music Suggestions Ninja](http://www.musicsuggestions.ninja/) - little web app for finding new music from a tree
+- [Food Pairing Ninja](http://www.foodpairing.ninja/) - a website to find great food pairs
+- [musicsaur](http://www.musicsaur.com/) - open-source software to sync music using only your browser
+- [find](http://www.internalpositioning.com/) - open-source software triangulate your position with only a smartphone
 
-[are.na](https://www.are.na/z-s/)
+Please feel free to contact me (contact details at bottom) about anything.
 
-
-### Theme
-
-Theme based on [my tiny-footprint Jekyll theme](https://github.com/schollz/jekyll-minimal)
+This website theme based on [my tiny-footprint Jekyll theme](https://github.com/schollz/jekyll-minimal)
 
 <blockquote> <p><span class="icon">
                 <svg viewBox="-7.86 833.445 16 16">
