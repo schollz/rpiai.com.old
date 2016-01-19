@@ -9,13 +9,12 @@ description: > # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 permalink: /:title/
 url: "rpiai.com" # name of site e.g. localhost:4000
-relative_permalinks: true
 twitter_username: zack_118
 github_username:  schollz
 
 # Optionals
-#disqus_shortname: "rpiai"
-#google_analytics: "UA-2345677-6"
+disqus_shortname: "rpiai"
+google_analytics: "UA-2345677-6"
 
 gems:
   - jekyll-sitemap
