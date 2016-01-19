@@ -30,7 +30,10 @@ the value imposes necessity<br>
 and necessity equates love.<br>
 </blockquote>
 
-<input onclick='partA();' type='button' value='Speak poem (Chrome only)' />
+<audio controls id="linkAudio">
+  <source src="/storyboard/speech_audio.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
 
 <h2>Example of animation</h2>
 <div class="col-sm-12">
