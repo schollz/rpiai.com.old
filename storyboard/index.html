@@ -5,16 +5,19 @@
     <meta content="IE=edge" http-equiv="X-UA-Compatible">
     <meta content="width=device-width, initial-scale=1" name="viewport">
     <title></title>
-    <link href="../css/main.css" rel="stylesheet">
+    <link href="http://rpiai.com/css/main.css" rel="stylesheet">
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/2.0.0/jquery.min.js" ></script>
 <script type="text/javascript" src="http://rpiai.com/assets/js/hashes.min.js"></script>
 <script src="http://crypto-js.googlecode.com/svn/tags/3.1.2/build/rollups/aes.js"></script>
 <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css" rel="stylesheet" integrity="sha256-MfvZlkHCEqatNoGiOXveE8FIwMzZg4W85qfrfIFBfYc= sha512-dTfge/zgoMYpP7QbHy4gWMEGsbsdZeCXz7irItjcC3sPUFtf0kuFbDz/ixG7ArTxmDjLXDmezHubeNikyKGVyQ==" crossorigin="anonymous">
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js" integrity="sha256-Sk3nkD6mLTMOF0EOpNtsIry+s1CsaqQC1rVLTAy+0yc= sha512-K1qjQ+NcF2TYO/eI3M6v8EiNYZfA95pQumfvcVrTHtwQVDG+aHRqLi/ETn2uB+1JqwYqVG3LIvdm9lj6imS/pQ==" crossorigin="anonymous"></script>
+<script src='https://code.responsivevoice.org/responsivevoice.js'></script>
 
 <script>
 var MD5 = new Hashes.MD5;
-
+var msg = new SpeechSynthesisUtterance();
+var voices = window.speechSynthesis.getVoices();
+var messageNumber = 0;
 
 $(document).ready(function() {
     $('#pagecontent').hide();
@@ -25,7 +28,44 @@ $(document).ready(function() {
     } else {
         $('#pagecontent').show();
     }
+
+    msg = new SpeechSynthesisUtterance();
+    voices = window.speechSynthesis.getVoices();
+    msg.voice = voices[8]; // Note: some voices don't support altering params
+    msg.voiceURI = 'native';
+    msg.volume = 1; // 0 to 1
+    msg.rate = 1; // 0.1 to 10
+    msg.pitch = 0; //0 to 2
+    msg.lang = 'en-US';
+    messages = ["One Must Always Prove Their Bridges", "pause", "pause", "A light inherits, blushes, and it does not return", "pause","the enchanting color of this crystal planetarium.","pause","like how the somber brick of communities that water the domestic forests are trusted.","pause","I get the feeling","pause","they must have lots to imbue","pause","to each other since the value imposes necessity","pause","and necessity equates love."];
+    
+    msg.text = messages[messageNumber];
+    msg.onend = function(e) {
+      console.log('Finished in ' + event.elapsedTime + ' seconds.');
+      messageNumber = messageNumber + 1;
+      msg.text = messages[messageNumber];
+      msg.voice = voices[8]; // Note: some voices don't support altering params
+      msg.voiceURI = 'native';
+      msg.rate = 1; // 0.1 to 10
+      msg.pitch = 0; //0 to 2
+      msg.lang = 'en-US';
+      msg.volume = 1; // 0 to 1
+      if (msg.text=="pause") {
+        msg.volume = 0;
+      } else {
+      }
+      if (messageNumber < messages.length) {
+        speechSynthesis.speak(msg);
+      }
+    };
+
+
+
 });
+
+function partA() {
+    speechSynthesis.speak(msg);
+}
 </script>
 
 
@@ -53,6 +93,8 @@ to each other since <br>
 the value imposes necessity<br>
 and necessity equates love.<br>
                     </blockquote>
+
+                    <input onclick='partA();' type='button' value='Speak poem (Chrome only)' />
 
                     <h2>Example of animation</h2>
                     <div class="col-sm-12">
