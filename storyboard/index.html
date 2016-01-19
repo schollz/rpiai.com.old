@@ -6,13 +6,36 @@
     <meta content="width=device-width, initial-scale=1" name="viewport">
     <title></title>
     <link href="../css/main.css" rel="stylesheet">
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/2.0.0/jquery.min.js" ></script>
+<script type="text/javascript" src="http://rpiai.com/assets/js/hashes.min.js"></script>
+<script src="http://crypto-js.googlecode.com/svn/tags/3.1.2/build/rollups/aes.js"></script>
+<link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css" rel="stylesheet" integrity="sha256-MfvZlkHCEqatNoGiOXveE8FIwMzZg4W85qfrfIFBfYc= sha512-dTfge/zgoMYpP7QbHy4gWMEGsbsdZeCXz7irItjcC3sPUFtf0kuFbDz/ixG7ArTxmDjLXDmezHubeNikyKGVyQ==" crossorigin="anonymous">
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js" integrity="sha256-Sk3nkD6mLTMOF0EOpNtsIry+s1CsaqQC1rVLTAy+0yc= sha512-K1qjQ+NcF2TYO/eI3M6v8EiNYZfA95pQumfvcVrTHtwQVDG+aHRqLi/ETn2uB+1JqwYqVG3LIvdm9lj6imS/pQ==" crossorigin="anonymous"></script>
+
+<script>
+var MD5 = new Hashes.MD5;
+
+
+$(document).ready(function() {
+    $('#pagecontent').hide();
+    var pw = prompt("Please enter your password", "");
+    if (MD5.hex(pw) != "508f62705c3dc1f374585f1d713377e7") {
+        alert("Wrong password.")
+        window.location.replace("http://rpiai.com");
+    } else {
+        $('#pagecontent').show();
+    }
+});
+</script>
+
+
 </head>
 <body>
 
     <div class="spacer">
         &nbsp;
     </div>
-    <div class="page-content">
+    <div class="page-content" id="pagecontent">
         <div class="wrapper">
             <div class="post">
                 <article class="post-content">
