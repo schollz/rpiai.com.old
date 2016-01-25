@@ -1,0 +1,1 @@
+- Convert all NGINX blocks to a Caddyfile (so all my webapps can be easily deployed)
