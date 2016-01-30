@@ -1,6 +1,8 @@
 # How to scrape my site
 
-First goto the sitemap.xml to collect a list of the URLs. To parse the URLS use
+## Get the list of URLs
+
+There is an easy way to do this. Simply goto the sitemap.xml to collect a list of the URLs. Here's a script that will download the sitemap and then parse them and output the list of URLs to `URLS.txt`.
 
 ```python
 import os
@@ -21,8 +23,12 @@ if __name__ == "__main__":
 		    f.write(loc.strip() + "\n")
 ```
 
+## Download the URLs
+
+The best way to do this is `wget`. This nice thing about `wget` is that it will keep the connection open, so you probably won't get 403ed into oblivion. Here's what I use to download the list: 
+
 ```bash
- wget --no-clobber --content-disposition --trust-server-names -i LIST_OF_URLS
+ wget --no-clobber --content-disposition --trust-server-names -i URLS.txt
 ```
 
 You can run this command multiple times and the `--no-clobber` will avoid overwriting things. The `--content-disposition --trust-server-names` will generate names based on the address.
