@@ -14,10 +14,11 @@ if __name__ == "__main__":
 	xmlParser = xml.dom.minidom.parseString(open('temp','r').read())
 	urlset = xmlParser.getElementsByTagName("urlset")[0]
 	urls = urlset.getElementsByTagName("url")
-	
-	for url in urls:
-	    loc = get_first_node_val(url, "loc")
-	    print(loc)
+
+	with open("URLS.txt","w") as f:
+		for url in urls:
+		    loc = get_first_node_val(url, "loc")
+		    f.write(loc.strip() + "\n")
 ```
 
 ```bash
