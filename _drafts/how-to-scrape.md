@@ -32,3 +32,14 @@ The best way to do this is `wget`. This nice thing about `wget` is that it will 
 ```
 
 You can run this command multiple times and the `--no-clobber` will avoid overwriting things. The `--content-disposition --trust-server-names` will generate names based on the address.
+
+## Store the files
+
+Since I don't like wasting space on my drive, I like to compress the downloaded files. You cna do a couple of things to compress them:
+
+```bash
+find . -not -name "*.lzma" -type f -exec lzma {} \;
+find . -not -name "*.lzma" -type f | xargs -n 1 -P 8 -I '{}' lzma '{}'
+```
+
+The second one is nice, as it will use 8 processor cores. These are useful commands for moving lists of files.
