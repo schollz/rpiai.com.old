@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Making to scrape my site
+title: How to scrape my site
 date: 2016-01-30T00:00:00.000Z
 comments: true
 landing: true
@@ -11,9 +11,8 @@ tags:
 description: Simple technique to download all my webpages.
 ---
 
-# How to scrape my site
 ## Get the list of URLs
-There is an easy way to do this. Simply goto the sitemap.xml to collect a list of the URLs. Here's a script that will download the sitemap and then parse them and output the list of URLs to `URLS.txt`.
+There is an easy way to do this. Simply go to the `sitemap.xml` to collect a list of the URLs. Here's a script that will download the sitemap and then parse them and output the list of URLs to `URLS.txt`.
 
 ```python
 import os
