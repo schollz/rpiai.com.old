@@ -33,7 +33,7 @@ The best way to do this is `wget`. This nice thing about `wget` is that it will 
 
 You can run this command multiple times and the `--no-clobber` will avoid overwriting things. The `--content-disposition --trust-server-names` will generate names based on the address.
 
-## Store the files
+## Compress the files (optional
 
 Since I don't like wasting space on my drive, I like to compress the downloaded files. You cna do a couple of things to compress them:
 
@@ -43,3 +43,13 @@ find . -not -name "*.lzma" -type f | xargs -n 1 -P 8 -I '{}' lzma '{}'
 ```
 
 The second one is nice, as it will use 8 processor cores. These are useful commands for moving lists of files.
+
+## Scrape the files
+
+### Scrapy
+
+Scrapy is really nice. You can use scrapy, simply host your files locally and tell scrapy to use your local address.
+
+## LXML
+
+Writing your own LXML is better IMO, as you can directly use Python3's builtin LZMA ability.
