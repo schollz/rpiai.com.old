@@ -7,6 +7,7 @@ weight: 10
 
 My name is Zack. I'm a researcher and tinkerer. Lately I've been tinkering with software and hardware. Some of my projects include:
 
+- [Good Movies Ninja](http://goodmovies.ninja/) - a great compilation of lists of moves
 - [Poetry Generator Ninja](http://www.poetrygenerator.ninja/poem/9f3d59e703fce8f4) - a simple AI for making poems
 - [Music Suggestions Ninja](http://www.musicsuggestions.ninja/) - little web app for finding new music from a tree
 - [Food Pairing Ninja](http://www.foodpairing.ninja/) - a website to find great food pairs
@@ -43,6 +44,3 @@ This website theme based on [my tiny-footprint Jekyll theme](https://github.com/
 	C-6.7,841.9-7,841.5-7.3,841.4z"/>
                 </svg>
               </span> "Tread softly because you tread on my dreams." - William Yeats</p> </blockquote>
-
-
-
