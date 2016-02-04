@@ -47,16 +47,21 @@ Program                                             | Runtime  | Database size
 [agrep](https://github.com/Wikinaut/agrep)          | 53 ms    | 3.5 MB (original file)
 [tre-agrep](http://laurikari.net/tre/download/)     | 1,178 ms | 3.5 MB (original file)
 
+<br>
+<br>
 
-# Installation
+## Installation
+
+Installation is really easy, if you have Golang. If you don't have Golang, you can easily [download it here](https://golang.org/dl/). Or, if you just want to download the `goagrep` binaries, they are [available here](https://github.com/schollz/goagrep/releases).
+
 
 ```bash
 go get github.com/schollz/goagrep
 ```
 
-# Usage (program)
+## Usage (program)
 
-## Building DB
+### Building DB
 
 ```
 USAGE:
@@ -68,7 +73,7 @@ OPTIONS:
    --size, -s           subset size (default: 3)
 ```
 
-## Matching
+### Matching
 
 ```
 USAGE:
@@ -79,7 +84,7 @@ OPTIONS:
    --word, -w           word to use
 ```
 
-## Example
+### Example
 First compile a list of your phrases or words that you want to match (see `testlist`). Then you can build a [`goagrep`](https://github.com/schollz/goagrep) database using:
 
 ```
