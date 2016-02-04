@@ -2,7 +2,7 @@
 title: Raspberry Pi AI
 email: zack@hypercubeplatforms.com
 description: > # this means to ignore newlines until "baseurl:"
-  Raspberry Pi AI is devoted to cataloging the efforts to create a 
+  Raspberry Pi AI is devoted to cataloging the efforts to create a
   artificial intelligence using a Raspberry Pi with many features. Current
   features include face/speech recognition, poetry generation (creativity),
   motion sensing.
@@ -18,8 +18,3 @@ google_analytics: "UA-2345677-6"
 
 gems:
   - jekyll-sitemap
-
-# Build settings
-markdown: redcarpet
-redcarpet:
-  extensions: ["no_intra_emphasis", "tables", "fenced_code_blocks", "autolink", "strikethrough", "superscript"]
