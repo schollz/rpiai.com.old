@@ -87,7 +87,7 @@ OPTIONS:
 ### Example
 First compile a list of your phrases or words that you want to match (see `testlist`). Then you can build a [`goagrep`](https://github.com/schollz/goagrep) database using:
 
-```
+{% highlight bash %}
 $ goagrep build -l testlist -d words.db
 Generating 'words.db' from 'testlist' with subset size 3
 Parsing subsets...
@@ -100,7 +100,7 @@ Loading subsets into db...
 2281 / 2281  100.00 % 0
 Subsets took 19.0267ms
 Finished building db
-```
+{% endhighlight %}
 
 And then you can match any of the words using:
 
@@ -121,7 +121,8 @@ wget http://www-personal.umich.edu/%7Ejlawler/wordlist
 
 You can also use as a library. Here's an example program (see in `example/`)
 
-```golang
+
+{% highlight c %}
 package main
 
 import (
@@ -149,4 +150,4 @@ func main() {
 	word, score := goagrep.GetMatch(searchWord, databaseFile)
 	fmt.Println(word, score)
 }
-```
+{% endhighlight %}
