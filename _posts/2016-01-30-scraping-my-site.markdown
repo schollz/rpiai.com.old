@@ -14,7 +14,7 @@ description: Simple technique to download all my webpages.
 ## Get the list of URLs
 There is an easy way to do this. Simply go to the `sitemap.xml` to collect a list of the URLs. Here's a script that will download the sitemap and then parse them and output the list of URLs to `URLS.txt`.
 
-```python
+{% highlight python %}
 import os
 import xml.dom.minidom
 
@@ -33,7 +33,7 @@ if __name__ == "__main__":
         for url in urls:
             loc = get_first_node_val(url, "loc")
             f.write(loc.strip() + "\n")
-```
+{% endhighlight %}
 
 ## Download the URLs
 The best way to do this is `wget`. This nice thing about `wget` is that it will keep the connection open, so you probably won't get 403ed into oblivion. Here's what I use to download the list:
