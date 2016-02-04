@@ -11,7 +11,9 @@ description: My poetry generator was able to generate poems that were able to ge
 
 <div class="row">
 <div class="col-md-3"></div>
-<div class="col-md-6"><img src="http://{{ site.url }}{{ site.baseurl }}/assets/images/the_archive_cover.jpg" alt="Cover of the Archive" class="img-responsive center-block img-thumbnail" width=50%></div>
+<div class="col-md-6">
+<img src="http://{{ site.url }}{{ site.baseurl }}/assets/images/the_archive_cover.jpg" alt="Cover of the Archive" class="img-responsive center-block img-thumbnail" width=50%>
+</div>
 <div class="col-md-3"></div>
 </div>
 <br><br>
