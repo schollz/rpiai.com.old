@@ -122,7 +122,7 @@ wget http://www-personal.umich.edu/%7Ejlawler/wordlist
 You can also use as a library. Here's an example program (see in `example/`)
 
 
-{% highlight c %}
+{% highlight go %}
 package main
 
 import (
