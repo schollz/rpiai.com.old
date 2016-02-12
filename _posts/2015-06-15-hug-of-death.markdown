@@ -23,11 +23,8 @@ I didn’t realize exactly what would happen and how easily it would shut
 down my website through immense popularity that ensued - a phenomenon
 known as a “*Hug of Death*”.
 
-<div class="col-sm-12">
-    <p align="center">
-<img src="http://{{ site.url }}{{ site.baseurl }}/assets/images/hug_attack.png" | prepend: site.url }}" alt="Image (C) 2014 Zakeena. Licensed under CC-BY." class="img-rounded img-responsive">
-    </p>
-</div>
+
+![Image (C) 2014 Zakeena. Licensed under CC-BY.](/assets/images/hug_attack.png)
 
 Hugs of Death have been analyzed
 [here](https://nsone.net/2014/10/reddit-sine/) but I was totally unaware
@@ -54,12 +51,8 @@ errors per minute (from the NGINX error log file). From this data I was
 able to ascertain the true beginning of the *Hug of Death*. I've plotted
 the number of requests and errors below:
 
-<div class="col-sm-12">
-    <p align="center">
-<img src="http://{{ site.url }}{{ site.baseurl }}/assets/images/hug_of_death_lg.png" | prepend: site.url }}" alt="Plot of the traffic to my site." class="img-rounded img-responsive">
-    </p>
-</div>
-  
+![Plot of the traffic to my site](/assets/images/hug_of_death_lg.png)
+
 Looking at this graph, it is interesting that the number of requests per
 minute (blue line) seems to increase exponentially in the first 6 hours.
 It starts to level off and eventually becomes linear and reaches a
@@ -153,11 +146,7 @@ a fair bit of traffic at a more consistent and manageable rate (I’ve
 scaled down the number of Gunicorn workers now). Here is a plot of my
 total traffic since inception:
 
-<div class="col-sm-12">
-    <p align="center">
-<img src="http://{{ site.url }}{{ site.baseurl }}/assets/images/total_requests_lg.png" | prepend: site.url }}" alt="Total number of requests to Music Suggestions Ninja" class="img-rounded img-responsive">
-    </p>
-</div>
+![Total number of requests to Music Suggestions Ninja](/assets/images/total_requests_lg.png)
        
 There is a lot of hockey-stick growth in the very beginning, but now my
 traffic has levelled off to about 3,900 requests per day which is more
