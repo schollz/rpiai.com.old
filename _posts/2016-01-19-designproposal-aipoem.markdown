@@ -3,6 +3,7 @@ layout: post
 title: Storyboard for poetry media
 date: 2016-01-19
 comments: true
+landing: false
 tags: [ai, python, poetry]
 description: None.
 ---
@@ -16,7 +17,7 @@ description: None.
 
 
 <h2>Overall design</h2>
-<p>Our overall design will center around a computer-generated poem. The computer-generated poem will be dictated via a synthesized human voice in a 
+<p>Our overall design will center around a computer-generated poem. The computer-generated poem will be dictated via a synthesized human voice in a
 phrasing that is similar to the construction of the poem. The dictation of the poem will be aided by a set of visuals that employ a gradient of
 colored backgrounds and foreground showing stylistic dream-like scenes from the poems. A sample of this proposal is shown and detailed below.</p>
 

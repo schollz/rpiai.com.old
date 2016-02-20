@@ -5,7 +5,7 @@ date: 2016-01-08
 comments: true
 archive: false
 tags: [speech-to-text, stt, pocketsphinx, raspberry pi]
-landing: true
+landing: false
 description: Simple instructions to get Pocketsphinx working
 ---
 
@@ -22,7 +22,7 @@ sudo apt-get install swig oss-compat pulseaudio libpulse-dev automake autoconf l
 For all benchmarks I recorded one file using
 
 ```bash
-arecord -f S16_LE -c1 -r16000 goforward.raw 
+arecord -f S16_LE -c1 -r16000 goforward.raw
 ```
 
 ## Transcribe Audio
@@ -107,6 +107,3 @@ cd pocketsphinx
 ./autogen.sh
 make && sudo make install
 ```
-
-
-

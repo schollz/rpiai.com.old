@@ -5,7 +5,7 @@ title: My experience with a Hug of Death - a cautionary tale for novices
 date: 2015-06-15
 comments: true
 tags: [blog, web development]
-landing: true
+landing: false
 description: When I first posted my music discovery app to the internet it was so popular that it had trouble serving all the visitors at once. If I had known a few more things I probably could have avoided all the problems!
 ---
 
@@ -147,7 +147,7 @@ scaled down the number of Gunicorn workers now). Here is a plot of my
 total traffic since inception:
 
 ![Total number of requests to Music Suggestions Ninja](/assets/images/total_requests_lg.png)
-       
+
 There is a lot of hockey-stick growth in the very beginning, but now my
 traffic has levelled off to about 3,900 requests per day which is more
 than manageable.

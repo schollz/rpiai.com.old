@@ -4,13 +4,13 @@ title: How to prevent link rot
 date: 2015-10-01
 comments: true
 tags: [permanence, web development, internet, apps]
-landing: true
+landing: false
 description: Trying to redevelop the web to make it more permanent
 ---
 
 # What is "link rot"?
 
-**Link rot** is real, it is common, and it is pervasive. Link rot is essentially *the process by which hyperlinks cease to function, usually because the web page or server they point to has moved or has become permanently unavailable*. It has existed since the internet began. 
+**Link rot** is real, it is common, and it is pervasive. Link rot is essentially *the process by which hyperlinks cease to function, usually because the web page or server they point to has moved or has become permanently unavailable*. It has existed since the internet began.
 
 # Web pages are ephemeral
 

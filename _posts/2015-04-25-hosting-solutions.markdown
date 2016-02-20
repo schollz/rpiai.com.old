@@ -5,7 +5,7 @@ date: 2015-04-25
 comments: true
 archive: false
 tags: [blog, web development]
-landing: true
+landing: false
 description: This is a useful catalog of all sorts of hosting solutions - physical, virtual and homegrown.
 ---
 
@@ -22,7 +22,7 @@ Basics
 ======
 
 **A web host** allows your web application to be accessible to the world
-wide web. This typically involves a server being somewhere that will 
+wide web. This typically involves a server being somewhere that will
 receive requests and send back the information to the client. How do you
 find such a server?
 

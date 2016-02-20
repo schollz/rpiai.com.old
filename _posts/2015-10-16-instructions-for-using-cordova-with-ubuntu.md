@@ -3,7 +3,7 @@ layout: post
 title: Make an Android app using Cordova in 15 minutes from freshly installed Ubuntu [Full Instructions]
 date: 2015-10-16
 comments: true
-landing: true
+landing: false
 tags: [cordova, android, ubuntu, app]
 description: A simple and quick guide to install everything you need to get started making apps using cordova.
 ---

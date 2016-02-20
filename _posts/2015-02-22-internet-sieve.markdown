@@ -5,7 +5,7 @@ date: 2015-02-22
 comments: true
 archive: false
 tags: [python, coding, web scraping]
-landing: true
+landing: false
 description: You can grab the html of a website, but what if you are only interested in a small part of the content of the website? Use a sieve!
 ---
 

@@ -4,7 +4,7 @@ title: Music discovery tools
 date: 2015-05-25
 comments: true
 tags: [web, music, discovery, tools]
-landing: true
+landing: false
 description: This is a useful catalogue of all sorts of music discovery tools
 ---
 
@@ -137,4 +137,3 @@ Here is a list that I've compiled containing all the music discovery tools out t
 </tbody>
 </table>
 </div>
-

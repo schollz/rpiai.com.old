@@ -3,7 +3,7 @@ layout: post
 title: How to scrape my site
 date: 2016-01-30T00:00:00.000Z
 comments: true
-landing: true
+landing: false
 tags:
   - python
   - web development

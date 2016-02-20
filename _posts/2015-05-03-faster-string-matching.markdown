@@ -4,7 +4,7 @@ title: Faster string matching
 date: 2015-05-03
 comments: true
 tags: [blog, web, development, strings]
-landing: true
+landing: false
 description: This is a simple and robust way to do really fast string matching in Python (or any language, really).
 ---
 

@@ -7,12 +7,10 @@ weight: 7
 <div class="home">
         <ul class="page-list">
             {% for post in site.posts %}
-            {% if post.landing %}
                 <li>
                     <time class="postlist-meta">{{ post.date | date: '%B %d, %Y' }}</time>
                     &mdash; <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
                 </li>
-            {% endif %}
             {% endfor %} 
         </ul>
 </div>

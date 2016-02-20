@@ -127,7 +127,7 @@ The Code
 Server
 ------
 
-```python
+{% highlight python %}
 import shlex
 from subprocess import Popen, PIPE
 import logging
@@ -264,12 +264,12 @@ while master_index<finish:
                 logger.info('Finished up to ' + str(master_index))
 
     time.sleep(.05)
-```
+{% endhighlight %}
 
 Client
 ------
 
-```python
+{% highlight python %}
 import json
 import sys
 
@@ -300,7 +300,7 @@ def worker(*nums):
     return results
 
 print json.dumps(worker(sys.argv[2:]))
-```
+{% endhighlight %}
 
 How it works
 ============
@@ -356,15 +356,12 @@ password on your client. Since its never a good idea to store the
 plaintext password, I suggest using base64. I.e. Type your password into
 `~/pass` and then
 
-```bash
+{% highlight bash %}
 base64 ~/pass > ~/pass2
 mv ~/pass2 ~/pass
-```
+{% endhighlight %}
 
 The program is then set to use this password for running the Tor
 connections.
 
 Have fun!
-
-  
-  

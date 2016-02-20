@@ -5,7 +5,7 @@ date: 2015-08-19
 comments: true
 archive: false
 tags: [web development, blogging, jekyll]
-landing: true
+landing: false
 description: Trying to make a tiny footprint version of a nice blog website
 ---
 
@@ -71,6 +71,3 @@ Creating my own theme with my own custom CSS reduced the landing page to only 8 
 - [Jekyll for base theme](https://github.com/jglovier/jekyll-new)
 - [christian-fei for simple-jekyll-search](https://github.com/christian-fei/Simple-Jekyll-Search)
 - [nadjetey for gist idea](https://github.com/nadjetey/wangana)
-
-
-
