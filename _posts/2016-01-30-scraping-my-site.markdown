@@ -47,9 +47,15 @@ You can run this command multiple times and the `--no-clobber` will avoid overwr
 ## Compress the files
 Since I don't like wasting space on my drive, I like to compress the downloaded files. I found that LZMA compression is really fast and gives high ratios, and its builtin to Python3 which makes later use a snap. You can do a couple of things to compress them:
 
-```bash
+{% highlight bash %}
 find . -not -name "*.lzma" -type f -exec lzma {} \;
 find . -not -name "*.lzma" -type f | xargs -n 1 -P 8 -I '{}' lzma '{}'
-```
+{% endhighlight %}
 
 The second one is nice, as it will use 8 processor cores. These are also useful commands for moving lists of files.
+
+Also you can easily find leftovers if you get stopped in the middle using
+
+{% highlight bash %}
+ls temp | grep html | awk -F'@' '{print $2}' | xargs -n 1 -I '{}' sed -i '/{}/d' URLS.txt
+{% endhighlight %}

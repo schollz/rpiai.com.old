@@ -55,7 +55,7 @@ Program                                             | Runtime  | Database size
 Installation is really easy, if you have Golang. If you don't have Golang, you can easily [download it here](https://golang.org/dl/). Or, if you just want to download the `goagrep` binaries, they are [available here](https://github.com/schollz/goagrep/releases).
 
 
-```bash
+{% highlight bash %}
 go get github.com/schollz/goagrep
 ```
 
@@ -63,7 +63,7 @@ go get github.com/schollz/goagrep
 
 ### Building DB
 
-```
+{% highlight bash %}
 USAGE:
    goagrep build [command options] [arguments...]
 
@@ -71,18 +71,18 @@ OPTIONS:
    --list, -l           wordlist to use, seperated by newlines
    --database, -d       output database name (default: words.db)
    --size, -s           subset size (default: 3)
-```
+{% endhighlight %}
 
 ### Matching
 
-```
+{% highlight bash %}
 USAGE:
    goagrep match [command options] [arguments...]
 
 OPTIONS:
    --database, -d       input database name (built using 'goagrep build')
    --word, -w           word to use
-```
+{% endhighlight %}
 
 ### Example
 First compile a list of your phrases or words that you want to match (see `testlist`). Then you can build a [`goagrep`](https://github.com/schollz/goagrep) database using:
@@ -104,10 +104,10 @@ Finished building db
 
 And then you can match any of the words using:
 
-```
+{% highlight bash %}
 $ goagrep match -w heroint -d words.db
 heroine|||1
-```
+{% endhighlight %}
 
 which returns the best match and the levenshtein score.
 
