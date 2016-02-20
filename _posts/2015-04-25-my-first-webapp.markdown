@@ -1,7 +1,7 @@
 ---
 layout: post
 title: My first web app - a music recommendation and playlist service
-date: 2014-02-05
+date: 2015-04-25
 comments: true
 landing: true
 tags: [music, python, raspberry pi, web development]
