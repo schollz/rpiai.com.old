@@ -36,6 +36,7 @@ I benchmarked both versions of Music Suggestions Ninja, the old and new, by sear
 | [New version](https://www.musicsuggestions.ninja/) | 140 MB | 5-20 MB | 20 reqs/sec |
 
 
+<br>
 Basically, my **new version is 20x faster and uses 70% less disk space and 97% less memory.** _Note: the improvement is not strictly due to Python vs Go._ A lot of the improvement comes from implementing everything in a much smarter way (which comes from experience and is not language specific). E.g. I am using more DB files instead of loading into memory, I am skipping `for` loops that were unnecessary and using more REGEX.
 
 ## tldr;
