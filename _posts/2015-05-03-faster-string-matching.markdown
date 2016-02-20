@@ -38,7 +38,7 @@ rearrangements.
 So I like to use two metrics, as I found they work better than one, so
 my string matching code is simply:
 
-``` python
+{% highlight python %}
 from fuzzywuzzy import fuzz
 from fuzzywuzzy import process
 import Levenshtein
@@ -47,7 +47,8 @@ def compareStrings(strings):
 leven1 = fuzz.token_set_ratio(strings[0],strings[1])
 leven2 = Levenshtein.ratio(str(strings[0]),str(strings[1]))
 return (strings[0],strings[1],leven1,leven2)
-```
+{% endhighlight %}
+
 
 Now how to get the best match? Here’s another problem: their can be a
 lot of band names so its very slow to use a single loop. Here’s the
@@ -55,7 +56,7 @@ solution: use more computer power! We can actually use the
 multiprocessing library to efficiently go through the band names, such
 as:
 
-``` python
+{% highlight python %}
 import operator
 from multiprocessing import Pool
 
@@ -69,14 +70,16 @@ pool = Pool(5)
 
 results = pool.map(compareStrings, stringList)
 print (sorted(results, key=operator.itemgetter(2, 3), reverse=True))[:10]
-```
+{% endhighlight %}
+
 
 Try it out! Combine the two and test it with a tiny list of band names:
 
-``` python
+{% highlight python %}
 bandNames = ['Lynyrd Skynyrd','The Sex Pistols','Van Halen','Metric','Prince','Kings of Leon','The Beatles','The Monkees','Van Morrison','Jim Morrison']
 printTopTenResults('Van Morrison')
-```
+{% endhighlight %}
+
 
 So if you search for “Van Morrison” you’ll get a top result of
 `('Van Morrison', 100, 1.0)` followed by `('Jim Morrison', 80, 0.75)`,
@@ -144,8 +147,8 @@ python test_string_matching WORD
 
 For example, searching for “pellow”:
 
-```
-python test_string_matching pillow
+{% highlight bash %}
+$ python test_string_matching pillow
 
 trying with pillow
 checking if it is exactly in list...
@@ -161,7 +164,8 @@ searching through hashed list...
 Top 5 matches:  pillow(200.0)  willow(166.3)  billow(166.3)  pill(160.0)  plow(160.0)
 Best match: Pillow
 searching through hashed list took 0.111702919006
-```
+{% endhighlight %}
+
 
 Of course the fastest is direct lookup, but in this case “pillow” wasn’t
 in the wordlist (it is actually “Pillow” in the list). Matching through
@@ -171,8 +175,8 @@ getting next results that make sense (billow, willow, pill).
 
 What happens if you mispell a word?
 
-```
-python test_string_matching.py madgascar
+{% highlight bash %}
+$ python test_string_matching.py madgascar
 
 trying with madgascar
 checking if it is exactly in list...
@@ -188,7 +192,7 @@ searching through hashed list...
 Top 5 matches:  madagascar(189.7)  madagascan(168.2)  mascara(150.0)  marasca(150.0)  lascar(133.7)
 Best match: Madagascar
 searching through hashed list took 0.112021923065
-```
+{% endhighlight %}
 
 Both full list method and the hash method got the right result, but
 again the hashed version was 14x faster!

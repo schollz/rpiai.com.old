@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Optimizing coding web apps on the Raspberry Pi
-date: 2016-02-20
+title: Thoughts on optimizing web apps for the Raspberry Pi
+date: 2016-02-17
 comments: true
 archive: false
 tags: [web development, raspberry pi, golang, python, go]
@@ -15,7 +15,7 @@ I like to write web apps and host them myself on the Pi. I'm no code ninja. I wr
 A pi has < 1 GB of memory and its never going to be as fast as a modern computer. Its crucial to minimize the memory so that you can have multiple apps on one pi (or lots of forks of one app) *and* its crucial maximize speed so the pi is not *noticeably* slower than a modern computer.
 
 ### Minimize RAM: Use databases, index everything
-For all my web apps, I typically have a big dataset that I need to load as a resource, and while its tempting to load into memory to get huge speedups, I usually have to resort to a database so that I can keep things on disk and still get fast access. 
+For all my web apps, I typically have a big dataset that I need to load as a resource, and while its tempting to load into memory to get huge speedups, I usually have to resort to a database so that I can keep things on disk and still get fast access.
 
 Sqlite3 is great for databases. A great trick I've learned is to index your searches and try to use [indexed tables for your searches](https://www.sqlite.org/lang_createindex.html). Tons of performance with little overhead.
 
