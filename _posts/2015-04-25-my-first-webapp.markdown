@@ -4,7 +4,7 @@ title: My first web app - a music recommendation and playlist service
 date: 2014-02-05
 comments: true
 landing: true
-tags: [music, python, raspberry pi]
+tags: [music, python, raspberry pi, web development]
 description:  I decided to try to make my own music recommendation service – a large task considering I know almost nothing about web applications. 
 ---
 
