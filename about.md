@@ -5,16 +5,18 @@ permalink: /about/
 weight: 10
 ---
 
-My name is Zack. I'm a researcher and tinkerer. Lately I've been tinkering with software and hardware. Some of my projects include:
+My name is Zack. I'm a researcher and tinkerer. Lately I've been tinkering with software and hardware. Some of my projects include (![RPi](/assets/images/RPI.jpg) indicates hosted on my Pi):
 
 - [Good Movies Ninja](http://goodmovies.ninja/) - a great compilation of lists of moves
-- [Poetry Generator Ninja](http://www.poetrygenerator.ninja/poem/9f3d59e703fce8f4) - a simple AI for making poems
-- [Music Suggestions Ninja](http://www.musicsuggestions.ninja/) - little web app for finding new music from a tree
+- [Poetry Generator Ninja](http://www.poetrygenerator.ninja/poem/9f3d59e703fce8f4) - a simple AI for making poems ![RPi](/assets/images/RPI.jpg)
+- [Music Suggestions Ninja](http://www.musicsuggestions.ninja/) - little web app for finding new music from a tree ![RPi](/assets/images/RPI.jpg)
+- [Book Suggestions Ninja](http://www.booksuggestions.ninja/) - uses clustering to find results most closely related to your favorite book  ![RPi](/assets/images/RPI.jpg)
 - [Food Pairing Ninja](http://www.foodpairing.ninja/) - a website to find great food pairs
 - [musicsaur](http://www.musicsaur.com/) - open-source software to sync music using only your browser
 - [find](http://www.internalpositioning.com/) - open-source software triangulate your position with only a smartphone
+- [AwwKoala](https://awwkoala.com/about/view) - This is a self-contained wiki webserver that makes sharing easy and fast ![RPi](/assets/images/RPI.jpg)
 
-Please feel free to contact me (contact details at bottom) about anything.
+Please feel free to contact me (contact details at bottom) about consulting.
 
 This website theme based on [my tiny-footprint Jekyll theme](https://github.com/schollz/jekyll-minimal)
 
