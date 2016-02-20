@@ -57,7 +57,7 @@ Installation is really easy, if you have Golang. If you don't have Golang, you c
 
 {% highlight bash %}
 go get github.com/schollz/goagrep
-```
+{% endhighlight %}
 
 ## Usage (program)
 
