@@ -5,7 +5,9 @@ permalink: /about/
 weight: 10
 ---
 
-My name is Zack. I'm a researcher and tinkerer. Lately I've been tinkering with software and hardware. Some of my projects include (![RPi](/assets/images/RPI.jpg) indicates hosted on my Pi):
+My name is Zack. I'm a researcher and tinkerer. Lately I've been tinkering with software and hardware.
+
+# My projects (![RPi](/assets/images/RPI.jpg) indicates hosted on my Pi):
 
 - [Good Movies Ninja](http://goodmovies.ninja/) - a great compilation of lists of moves
 - [Poetry Generator Ninja](http://www.poetrygenerator.ninja/poem/9f3d59e703fce8f4) - a simple AI for making poems ![RPi](/assets/images/RPI.jpg)

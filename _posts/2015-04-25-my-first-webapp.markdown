@@ -1,11 +1,12 @@
 ---
 layout: post
 title: My first web app - a music recommendation and playlist service
+permalink: /2015/04/25/my-first-web-app-a-music-recommendation-and-playlist-generation-service
 date: 2015-04-25
 comments: true
 landing: true
 tags: [music, python, raspberry pi, web development]
-description:  I decided to try to make my own music recommendation service – a large task considering I know almost nothing about web applications. 
+description:  I decided to try to make my own music recommendation service – a large task considering I know almost nothing about web applications.
 ---
 
 <p><a href="http://www.musicsuggestions.ninja"><img src="https://rpiai.files.wordpress.com/2015/04/music-ninja.jpg?w=640&#038;h=295" alt="music ninja"   class="aligncenter size-large wp-image-351" /></a></p>
@@ -50,7 +51,7 @@ def printTopTenResults(searchString):
     for bandName in bandNames:
         stringList.append((searchString,bandName))
 
-    pool = Pool(5) 
+    pool = Pool(5)
 
     results = pool.map(compareStrings, stringList)
     print (sorted(results, key=operator.itemgetter(2, 3), reverse=True))[:10]
