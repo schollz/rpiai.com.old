@@ -16,7 +16,9 @@ Here's what I made in the last 40 days. It turns out there is a lot you can do w
 
 # New
 
-In order to
+### td-watson client ![Commits](https://img.shields.io/badge/commits-0-brightgreen.svg) ![Language](https://img.shields.io/badge/language-Go-blue.svg)
+
+A simple client to keep track of time using watson
 
 ### AwwKoala ![Commits](https://img.shields.io/badge/commits-179-brightgreen.svg) ![Language](https://img.shields.io/badge/language-Go-blue.svg)
 
