@@ -23,7 +23,7 @@ body {
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js" integrity="sha256-Sk3nkD6mLTMOF0EOpNtsIry+s1CsaqQC1rVLTAy+0yc= sha512-K1qjQ+NcF2TYO/eI3M6v8EiNYZfA95pQumfvcVrTHtwQVDG+aHRqLi/ETn2uB+1JqwYqVG3LIvdm9lj6imS/pQ==" crossorigin="anonymous"></script>
 
 <script>
-var MD5 = new Hashes.MD5;
+var SHA512 = new Hashes.SHA512;
 function display(text) {
 	$('#form').fadeOut('slow', function() {
 		$('#outputBox').text(text);
@@ -56,7 +56,7 @@ $(document).ready(function() {
 	$('#encode').click(function() {
 		msg = $('#inputtext').val().toLowerCase();
 		passphrase = $('#passphrase').val();
-		show(MD5.hex(msg+passphrase));
+		show(SHA512.hex(msg+passphrase));
 	});
 	
 
