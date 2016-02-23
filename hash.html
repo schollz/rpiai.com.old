@@ -16,13 +16,17 @@ body {
 }
 </style>
 
-<script src="http://ajax.googleapis.com/ajax/libs/jquery/2.0.0/jquery.min.js" ></script>
-<script type="text/javascript" src="/assets/js/hashes.min.js"></script>
-<script src="http://crypto-js.googlecode.com/svn/tags/3.1.2/build/rollups/aes.js"></script>
-<link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css" rel="stylesheet" integrity="sha256-MfvZlkHCEqatNoGiOXveE8FIwMzZg4W85qfrfIFBfYc= sha512-dTfge/zgoMYpP7QbHy4gWMEGsbsdZeCXz7irItjcC3sPUFtf0kuFbDz/ixG7ArTxmDjLXDmezHubeNikyKGVyQ==" crossorigin="anonymous">
-<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js" integrity="sha256-Sk3nkD6mLTMOF0EOpNtsIry+s1CsaqQC1rVLTAy+0yc= sha512-K1qjQ+NcF2TYO/eI3M6v8EiNYZfA95pQumfvcVrTHtwQVDG+aHRqLi/ETn2uB+1JqwYqVG3LIvdm9lj6imS/pQ==" crossorigin="anonymous"></script>
+<script src="/assets/js/enc/jquery.min.js" ></script>
+<script type="text/javascript" src="/assets/js/enc/hashes.min.js"></script>
+<script src="/assets/js/enc/aes.js"></script>
+<link href="/assets/js/enc/bootstrap.min.css" rel="stylesheet">
+<script src="/assets/js/enc/bootstrap.min.js"></script>
+<script src="/assets/js/enc/seedrandom.min.js">
+</script>
 
 <script>
+
+
 var SHA512 = new Hashes.SHA512;
 function display(text) {
 	$('#form').fadeOut('slow', function() {
@@ -30,6 +34,39 @@ function display(text) {
 		$('#outputContainer').fadeIn('slow');
 	});
 };
+
+function unpack(str) {
+    var bytes = [];
+    for(var i = 0; i < str.length; i++) {
+        var char = str.charCodeAt(i);
+        bytes.push(char >>> 8);
+        bytes.push(char & 0xFF);
+    }
+    return bytes;
+}
+
+function pack(bytes) {
+    var str = "";
+    for(var i = 0; i < bytes.length; i += 2) {
+        var char = bytes[i] << 8;
+        if (bytes[i + 1])
+            char |= bytes[i + 1];
+        str += String.fromCharCode(char);
+    }
+    return str;
+}
+
+function makeid(seed)
+{
+	Math.seedrandom(seed);
+    var text = "";
+    var possible = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789,.!?;:'()[]";
+
+    for( var i=0; i < 10; i++ )
+        text += possible.charAt(Math.floor(Math.random() * possible.length));
+
+    return text;
+}
 
 $(document).ready(function() {
 	$('#outputContainer').hide();
@@ -56,7 +93,8 @@ $(document).ready(function() {
 	$('#encode').click(function() {
 		msg = $('#inputtext').val().toLowerCase();
 		passphrase = $('#passphrase').val();
-		show(SHA512.hex(msg+passphrase));
+		enc = SHA512.hex(msg+passphrase);
+		show(makeid(enc))
 	});
 	
 
