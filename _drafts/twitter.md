@@ -47,7 +47,7 @@ However, I have actually entered Z contests. Assuming the above, that means that
 8. PS4 game Madden 2015
 
 Total revenue: $70
-Total expenses: 
+Total expenses: ??
 
 # Sample of contests won
 
