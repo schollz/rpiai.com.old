@@ -30,10 +30,10 @@ I rewrote everything in my new favorite language, Go following [some generic pri
 I benchmarked both versions of Music Suggestions Ninja, the old and new, by searching for a band called "Coldpla" (which is fuzzy matched to "Coldplay"). The disk space was measured using `ds -sh ./`, the memory usage was measured using `free -m` before and after stopping program, and the speed was measured using [`locustio`](http://locust.io/) by simulating 300 users hatching 10 users/second. Here are the results:
 
 
-| Music Suggestions Ninja | Disk space | Memory usage | Speed |
+| Version | Disk space | Memory usage | Speed |
 | ------------------| ------------------| ------------------| ------------------|
-| [Old version](http://musicninja.duckdns.org/) | 480 MB | 580 MB | 1 req/sec |
-| [New version](https://www.musicsuggestions.ninja/) | 140 MB | 5-20 MB | 20 reqs/sec |
+| [Old](http://musicninja.duckdns.org/) | 480 MB | 580 MB | 1 req/sec |
+| [New](https://www.musicsuggestions.ninja/) | 140 MB | 5-20 MB | 20 reqs/sec |
 
 
 <br>

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: In honor of breaking my Github streak...
-date: 2014-02-26
+date: 2016-02-22
 comments: true
 landing: true
 tags: [ai, python, raspberry pi]
@@ -15,6 +15,10 @@ description: Here's what I've been making the past 40 days.
 Here's what I made in the last 40 days. It turns out there is a lot you can do when you put yourself to coding everyday. My goal for the last 40 days was to commit code to any repo (BitBucket or Github) that was helpful/useful. Somedays there wasn't much - about 10 days I just had 1 commit. Still, these 1-commit days turned out to be really useful as I usually used them to improve on READMEs...something that I never really took the time to do before. [My commits](https://github.com/schollz?tab=contributions&period=monthly)
 
 # New
+
+### gofind ![Commits](https://img.shields.io/badge/commits-30-brightgreen.svg) ![Language](https://img.shields.io/badge/language-Go-blue.svg)
+
+I've rewritten find in Golang.
 
 ### td-watson client ![Commits](https://img.shields.io/badge/commits-0-brightgreen.svg) ![Language](https://img.shields.io/badge/language-Go-blue.svg)
 

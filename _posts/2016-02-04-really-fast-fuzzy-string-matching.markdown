@@ -1,6 +1,6 @@
 ---
 layout: post
-title: <i>Really fast</i> fuzzy string matching
+title: Really fast fuzzy string matching
 date: 2016-02-04
 comments: true
 landing: true
