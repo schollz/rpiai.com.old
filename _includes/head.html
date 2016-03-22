@@ -10,7 +10,7 @@
   {% elsif post.tags %}
   <meta name="keywords" content="{{ post.tags | join: ', ' }}">
   {% endif %}
-  
+
 <meta content="{{ site.title }}" property="og:site_name">
 {% if page.title %}
   <meta content="{{ page.title }}" property="og:title">
@@ -50,7 +50,7 @@
   {% endfor %}
 {% endif %}
 
-  <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
+<link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
   <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}" />
 
@@ -66,4 +66,3 @@
 {% endif %}
 
 </head>
-

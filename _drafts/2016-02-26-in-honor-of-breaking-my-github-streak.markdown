@@ -20,10 +20,6 @@ Here's what I made in the last 40 days. It turns out there is a lot you can do w
 
 I've rewritten find in Golang.
 
-### td-watson client ![Commits](https://img.shields.io/badge/commits-0-brightgreen.svg) ![Language](https://img.shields.io/badge/language-Go-blue.svg)
-
-A simple client to keep track of time using watson
-
 ### AwwKoala ![Commits](https://img.shields.io/badge/commits-179-brightgreen.svg) ![Language](https://img.shields.io/badge/language-Go-blue.svg)
 
 AwwKoala is yet another wiki. I'm proud of this one as it carries the functionality that I have always wanted in a wiki (listifying for crossing/uncrossing) and the utter simplicity that seems always missing from the thousands of wikis out there.
