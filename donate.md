@@ -1,4 +1,9 @@
-
+---
+layout: page
+title: Donate
+permalink: /donate/
+weight: 10
+---
 
 Creating free resources and open-source code takes time and costs money. Please help me recupe some of the costs! 
 
