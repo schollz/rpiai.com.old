@@ -20,11 +20,6 @@ My name is Zack. I'm a researcher and tinkerer. Lately I've been tinkering with 
 
 Please feel free to contact me (contact details at bottom) about consulting.
 
-Creating free resources and open-source code takes time and costs money. Please help me recupe some of the costs! 
-
-| Item | Cost |
-| ---- | ----- |
-| Domain (poetrygenerator.ninja) | $17.95 |
 
 
 This website theme based on [my tiny-footprint Jekyll theme](https://github.com/schollz/jekyll-minimal)
