@@ -9,6 +9,17 @@ landing: true
 description: My poetry generator was able to generate poems that were able to get published in a real literary journal.
 ---
 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- RPiAi -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-4947875154879707"
+     data-ad-slot="3387397253"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ![Cover of the Archive](http://rpiai.com/assets/images/the_archive_cover.jpg)
 
 <br><br>
