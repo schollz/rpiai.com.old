@@ -9,7 +9,7 @@ weight: 10
 
 Hosting open-source code costs money for registering domains and paying for server time.
 
-### My fundraising goal for 2016 is $111.88. I am currently 37% of the way there! Please help me by donating! Click [here](https://www.paypal.me/ZackScholl/5.00) to donate.
+### My fundraising goal for 2016 is $111.88. I am currently 84% of the way there! Please help me by donating! Click [here](https://www.paypal.me/ZackScholl/5.00) to donate.
 
 # 2016 Costs
 
@@ -25,4 +25,4 @@ Hosting open-source code costs money for registering domains and paying for serv
 | **Total** | $126.94 |
 
 
-[I'm currently 37% of the way to pay for my server time](http://rpiai.com/donate/), please help me by [donating $5](https://www.paypal.me/ZackScholl/5.00).
+[I'm currently 84% of the way to pay for my server time](http://rpiai.com/donate/), please help me by [donating $5](https://www.paypal.me/ZackScholl/5.00).
