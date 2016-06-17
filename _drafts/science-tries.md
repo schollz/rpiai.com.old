@@ -42,9 +42,10 @@ Most published projects are 2-3 of these individual projects combined.
 # Working on
 
 1. Partitioning of Luciferase (emulating ribosome bound nascent chains)
-2. Unfolding and refolding of Yeast PGK and E. coli PGK
-3. Kinetic partitioning of Luciferase folding simulations
-4. Experimental and simulated unfolding of denatured Luciferase
+2. Cotranslational folding of proteins
+3. Unfolding of Kimberley Clark protein #3
+4. PCNA
+5. Taq polymerase
 
 # Fail (simply didn't work or not likely to yield much useful data)
 
@@ -57,6 +58,7 @@ Most published projects are 2-3 of these individual projects combined.
 7. Unfolding and refolding of Kimberley Clark protein #2
 8. Folding of Streptavidin (too hard to get results)
 9. Luciferase optical-trap experiments (could not get attachement to work)
+10. Refolding Luciferase with individual heat shock proteins
 
 # Started but likely will never finish (too time-consuming with low impact)
 
@@ -67,7 +69,7 @@ Most published projects are 2-3 of these individual projects combined.
 5. Cyro-EM imaging of ribosome bound nascent chains
 6. Using Ribosome bound nascent chains as protein purification
 7. Testing the unfolding of the Durham firefly Luciferase
-8. Luciferase folding with Hsp40/70/90
+8. Experimental and simulated unfolding of denatured Luciferase
 9. Unfolding and refolding of Hsp70
 10. Unfolding and refolding of Taq Polymerase
 11. Multilevel simulations (combining coarse-grain and all-atom)
@@ -85,7 +87,8 @@ Most published projects are 2-3 of these individual projects combined.
 23. Deriving new analytical tools for understanding forced-unfolding
 24. Investigation into variance of contour-length measurements (simulations)
 25. Difference between chemical/heat/force unfolding
-
+26. Experimental and simulated unfolding of denatured Luciferase
+ 
 # Finished but probably will never publish (due ot lack of novelty)
 
 1. Design of new AFM circuit
@@ -95,17 +98,14 @@ Most published projects are 2-3 of these individual projects combined.
 
 # Finished and could be published
 
-1. Protein S unfolding/folding
+1. Unfolding of ELPs (in context of greater material)
 2. Anisotropy of unfolding (SpyCatcher/SpyTag)
 3. Unbinding transitions in Streptavidin/Biotin
 4. Luciferase unfolding kinetics
 5. Luciferase splitting in proportion to ATP/Luciferin concentration
 7. AFM Imaging of Ribosomes
-8. Unfolding of ELPs (in context of greater material)
-9. Unfolding of ELPs with metals
-10. Unfolding of Kimberley Clark protein #3
 
-# Published
+# Published/Soon
 
 1. Transcription factories
 2. Automation of AFM
@@ -113,3 +113,7 @@ Most published projects are 2-3 of these individual projects combined.
 4. Streptavidin stabilization during unfolding
 5. Mechanical induced conformational changes of polydA
 6. Coiled-coil mechanical probe
+7. Protein S unfolding/folding
+8. New DNA plasmid for AFM
+9. Kinetic partitioning of Luciferase folding simulations
+10. Unfolding and refolding of Yeast PGK and E. coli PGK
