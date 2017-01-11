@@ -8,6 +8,19 @@ tags: [ai, python, raspberry pi]
 description: My experience with beginning web development and how to deal with high impact websites using load balancing.
 ---
 
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- RPiAi -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-4947875154879707"
+     data-ad-slot="3387397253"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+
 Choose the hardware
 ===================
 
@@ -71,6 +84,17 @@ choice, so I went with that. There are many APIs available for Python.
 However, everything I am about to show could just as easily been done
 with Java. Also, I had never programmed with Python before so this was
 going to be a good opportunity for me to learn.
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- RPiAi -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-4947875154879707"
+     data-ad-slot="3387397253"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 See TTS and STT in action!
 ==========================
